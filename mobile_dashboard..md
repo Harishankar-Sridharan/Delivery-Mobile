@@ -13,7 +13,7 @@ Prerequisites:
 Steps:
 1. Log in to the Nomadia Delivery mobile application.
 
-![Frame at 0:30](../images/mobile-mobile_dashboard_timestamp_0_to_30.png "Dashboard – The main landing screen showing operational quick access.")
+![Frame at 0:30](../.images/mobile-mobile_dashboard_timestamp_0_to_30.png "Dashboard – The main landing screen showing operational quick access.")
 
 2. View the **Dashboard** screen to see your current tasks.
 
