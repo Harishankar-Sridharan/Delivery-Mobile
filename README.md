@@ -4,14 +4,11 @@ The mobile dashboard provides real-time visibility into routes, machines, and lo
 
 #### Getting Started
 
-Prerequisites:
-
 * Nomadia Delivery mobile application installed.
 * Active user account and login credentials.
 * Assigned operational routes.
-
-- Log in to the Nomadia Delivery mobile application.
-- View the **Dashboard** screen to see your current tasks.
+* Log in to the Nomadia Delivery mobile application.
+* View the **Dashboard** screen to see your current tasks.
 
 <figure><img src=".gitbook/assets/image (1).png" alt="" width="540"><figcaption></figcaption></figure>
 
