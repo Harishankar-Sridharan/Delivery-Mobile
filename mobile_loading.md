@@ -1,8 +1,4 @@
-# mobile\_loading
-
-## mobile\_loading
-
-## mobile
+# Loading
 
 The Nomadia Delivery mobile loading feature allows delivery users to manage parcel statuses and track loading activities. Users can verify parcels and machines before starting their routes to ensure efficient preparation. This workflow streamlines the transition from the warehouse to the vehicle.
 
@@ -21,20 +17,13 @@ The Nomadia Delivery mobile loading feature allows delivery users to manage parc
 #### Feature Overview
 
 * **To Load**: Displays all parcels and machines pending loading.
+* **Not Loaded**: Lists parcels that are not yet inside the vehicle.
+* **Loaded**: Shows parcels that are successfully loaded into the vehicle.
+* **Sub-status Toggle**: Switches the view to verify loaded and pending parcels.
 
 ![Frame at 0:33](.gitbook/assets/mobile-mobile_loading_timestamp_0_to_33.png)
 
-* **Not Loaded**: Lists parcels that are not yet inside the vehicle.
 
-![Frame at 0:41](.gitbook/assets/mobile-mobile_loading_timestamp_0_to_41.png)
-
-* **Loaded**: Shows parcels that are successfully loaded into the vehicle.
-
-![Frame at 0:49](.gitbook/assets/mobile-mobile_loading_timestamp_0_to_49.png)
-
-* **Sub-status Toggle**: Switches the view to verify loaded and pending parcels.
-
-![Frame at 0:57](.gitbook/assets/mobile-mobile_loading_timestamp_0_to_57.png)
 
 * **Ellipse Menu**: Opens additional operation options in the top right corner.
 
