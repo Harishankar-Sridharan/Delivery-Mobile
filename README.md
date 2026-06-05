@@ -10,10 +10,8 @@ Prerequisites:
 * Active user account and login credentials.
 * Assigned operational routes.
 
-Steps:
-
-1. Log in to the Nomadia Delivery mobile application.
-2. View the **Dashboard** screen to see your current tasks.
+- Log in to the Nomadia Delivery mobile application.
+- View the **Dashboard** screen to see your current tasks.
 
 <figure><img src=".gitbook/assets/image (1).png" alt="" width="540"><figcaption></figcaption></figure>
 
