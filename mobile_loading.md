@@ -59,7 +59,7 @@ The Nomadia Delivery mobile loading feature allows delivery users to manage parc
 
 3. Tap on **Confirm** when the pop-up asks to finish loading.
 
-<img src=".gitbook/assets/mobile-mobile_loading_timestamp_2_to_36.png" alt="Frame at 2:36" width="540">
+<img src=".gitbook/assets/mobile-mobile_loading_timestamp_2_to_36.png" alt="" width="540">
 
 **Troubleshooting: Unexpected Machines**
 
