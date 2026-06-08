@@ -8,11 +8,11 @@ The Nomadia Delivery mobile loading feature allows delivery users to manage parc
 * An assigned route available in the application.
 * Open the assigned route from the **Dashboard**.
 
-![Flow 0:13 to 0:19](.gitbook/assets/mobile-mobile_loading_timestamp_0_to_13_to_0_to_19.gif)
+<img src=".gitbook/assets/mobile-mobile_loading_timestamp_0_to_13_to_0_to_19.gif" alt="" width="540">
 
 * Select **Load my vehicle** to start the process.
 
-![Frame at 0:25](.gitbook/assets/mobile-mobile_loading_timestamp_0_to_25.png)
+<figure><img src=".gitbook/assets/Media (18).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 #### Feature Overview
 
@@ -21,47 +21,51 @@ The Nomadia Delivery mobile loading feature allows delivery users to manage parc
 * **Loaded**: Shows parcels that are successfully loaded into the vehicle.
 * **Sub-status Toggle**: Switches the view to verify loaded and pending parcels.
 
-![Frame at 0:33](.gitbook/assets/mobile-mobile_loading_timestamp_0_to_33.png)
+<img src=".gitbook/assets/mobile-mobile_loading_timestamp_0_to_33.png" alt="" width="540">
 
 
 
 * **Ellipse Menu**: Opens additional operation options in the top right corner.
 
-![Frame at 1:36](.gitbook/assets/mobile-mobile_loading_timestamp_1_to_36.png)
+<img src=".gitbook/assets/mobile-mobile_loading_timestamp_1_to_36.png" alt="" width="540">
 
 #### How To: Load Parcels via Scanning
 
 1. Access the scan functionality to load parcels quickly.
 
-![Frame at 1:06](.gitbook/assets/mobile-mobile_loading_timestamp_1_to_06.png)
+<img src=".gitbook/assets/mobile-mobile_loading_timestamp_1_to_06.png" alt="" width="540">
 
 2. Scan the parcel barcode to automatically update the loading status.
 
-![Flow 1:06 to 1:11](.gitbook/assets/mobile-mobile_loading_timestamp_1_to_06_to_1_to_11.gif)
+<img src=".gitbook/assets/mobile-mobile_loading_timestamp_1_to_06_to_1_to_11.gif" alt="" width="540">
 
 #### How To: Load Parcels Manually
 
 1. Identify the parcel entry in the list if a physical scan is unavailable.
 2. Long press on the parcel entry to update the status manually.
 
-![Flow 1:19 to 1:24](.gitbook/assets/mobile-mobile_loading_timestamp_1_to_19_to_1_to_24.gif)
+<img src=".gitbook/assets/mobile-mobile_loading_timestamp_1_to_19_to_1_to_24.gif" alt="" width="540">
+
+3. Use the toggle buttons at the bottom of the screen to manually indicate the parcel status. Tap _Load_ (green button) when loading a parcel, or tap _Not load_ (red button) when the parcel is not loaded. This action allows parcels to be processed manually without scanning.
+
+<figure><img src=".gitbook/assets/Media (17).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 #### How To: Finish the Loading Workflow
 
 1. Verify all loaded parcels and machines in the list.
 2. Select **Validate** to confirm loading completion.
 
-![Frame at 2:26](.gitbook/assets/mobile-mobile_loading_timestamp_2_to_26.png)
+<img src=".gitbook/assets/mobile-mobile_loading_timestamp_2_to_26.png" alt="" width="540">
 
 3. Tap on **Confirm** when the pop-up asks to finish loading.
 
-![Frame at 2:36](.gitbook/assets/mobile-mobile_loading_timestamp_2_to_36.png)
+<img src=".gitbook/assets/mobile-mobile_loading_timestamp_2_to_36.png" alt="Frame at 2:36" width="540">
 
 **Troubleshooting: Unexpected Machines**
 
 If an unexpected parcel or machine is scanned, the application identifies it as an **Unexpected machine**.
 
-![Frame at 2:18](.gitbook/assets/mobile-mobile_loading_timestamp_2_to_11_to_2_to_18.png)
+<img src=".gitbook/assets/mobile-mobile_loading_timestamp_2_to_11_to_2_to_18.png" alt="" width="540">
 
 #### Productivity Tips
 
