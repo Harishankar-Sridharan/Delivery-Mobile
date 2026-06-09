@@ -6,7 +6,7 @@ The Delivery Mobile App Login screen allows users to securely access the applica
 
 To ensure the best experience with the Nomadia Delivery application, please check the system requirements for your device.
 
-**System Requirements**: The Nomadia Delivery application is designed to run on various mobile devices. To ensure the best experience, please check if your device meets the following requirements
+**System Requirements** : The Nomadia Delivery application is designed to run on various mobile devices. To ensure the best experience, please check if your device meets the following requirements
 
 * **Android** device must be running **version 8 to 14**
 * **iOS** (Apple) devices need to be running **version 15.5 or late**r
@@ -53,7 +53,7 @@ Use your assigned credentials to access the Delivery Mobile application. User cr
 2. Enter your **Password** in the Password field.
 3. Tap **Login** to authenticate and access the application.
 
-<figure><img src="../.gitbook/assets/Media (20) (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Media (20).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 4. Upon successful authentication, the application opens and displays your assigned routes, missions, and delivery operations.
 
@@ -89,8 +89,3 @@ If an incorrect User ID or Password is entered, the application displays an **"I
 
 * Contact your system administrator if you need to reset or change your password, or if you continue to experience login issues after verifying your credentials.
 * Use the Password Visibility Toggle (eye icon) to temporarily display your password before tapping Login. This helps identify typing errors and reduces failed login attempts.
-
-
-
-
-

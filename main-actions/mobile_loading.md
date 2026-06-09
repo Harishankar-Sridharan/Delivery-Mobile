@@ -23,8 +23,6 @@ The Nomadia Delivery mobile loading feature allows delivery users to manage parc
 
 <img src="../.gitbook/assets/mobile-mobile_loading_timestamp_0_to_33.png" alt="" width="540">
 
-
-
 * **Ellipse Menu**: Opens additional operation options in the top right corner.
 
 <img src="../.gitbook/assets/mobile-mobile_loading_timestamp_1_to_36.png" alt="" width="540">
@@ -44,7 +42,7 @@ The Nomadia Delivery mobile loading feature allows delivery users to manage parc
 1. Identify the parcel entry in the list if a physical scan is unavailable.
 2. Long press on the parcel entry to update the status manually.
 
-<img src="../.gitbook/assets/mobile-mobile_loading_timestamp_1_to_19_to_1_to_24.gif" alt="" width="540">
+<img src="../.gitbook/assets/mobile-mobile_loading_timestamp_1_to_06_to_1_to_11.gif" alt="" width="540">
 
 3. Use the toggle buttons at the bottom of the screen to manually indicate the parcel status. Tap _Load_ (green button) when loading a parcel, or tap _Not load_ (red button) when the parcel is not loaded. This action allows parcels to be processed manually without scanning.
 

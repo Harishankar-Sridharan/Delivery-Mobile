@@ -5,4 +5,4 @@
 * [Main Actions](main-actions/README.md)
   * [Dashboard](main-actions/mobile_dashboard..md)
   * [Loading](main-actions/mobile_loading.md)
-  * [createamission](images/createamission.md)
+* [Create a Mission](createamission.md)
