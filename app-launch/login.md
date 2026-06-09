@@ -39,7 +39,49 @@ The Password field includes a **Visibility Toggle** (eye icon) that allows users
 * Reduces login errors caused by mistyped characters.
 * Improves usability while maintaining password security.
 
-> **Tip:** Tap the eye icon to temporarily display your password before logging in, then tap it again to hide the password.
+**Tip:** Tap the eye icon to temporarily display your password before logging in, then tap it again to hide the password.
+
+#### Logging In to the Application
+
+Use your assigned credentials to access the Delivery Mobile application. User credentials are provided and managed by your system administrator.
+
+#### Steps to Log In
+
+1. Enter your **User ID** in the User ID field.
+2. Enter your **Password** in the Password field.
+3. Tap **Login** to authenticate and access the application.
+4. Upon successful authentication, the application opens and displays your assigned routes, missions, and delivery operations.
+
+#### Benefits
+
+* Provides secure access to delivery operations.
+* Ensures that only authorized users can access application data.
+* Gives users access to their assigned routes and delivery tasks.
+
+#### Login Error: Invalid Credentials
+
+If an incorrect User ID or Password is entered, the application displays an **"Incorrect username or password"** error message.
+
+#### Possible Causes
+
+* Incorrect User ID entered.
+* Incorrect Password entered.
+* Typographical errors in the credentials.
+* Caps Lock enabled while entering the password.
+
+#### Resolution
+
+1. Verify that the User ID and Password have been entered correctly.
+2. Ensure that Caps Lock is disabled.
+3. Re-enter the credentials and tap **Login** again.
+4. If the issue persists, contact your system administrator for assistance
+
+#### Productivity Tips
+
+* Contact your system administrator if you need to reset or change your password, or if you continue to experience login issues after verifying your credentials.
+* Use the Password Visibility Toggle (eye icon) to temporarily display your password before tapping Login. This helps identify typing errors and reduces failed login attempts.
+
+
 
 
 
