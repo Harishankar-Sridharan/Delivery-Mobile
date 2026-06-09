@@ -16,6 +16,8 @@ To ensure the best experience with the Nomadia Delivery application, please chec
 1. Download the **Delivery Mobile** application from the **Google Play Store** (Android) or **Apple App Store** (iOS).
 2. Once the installation is complete, locate the **Delivery Mobile** application icon on your device and tap it to launch the app.
 
+<figure><img src="../.gitbook/assets/Media__19_-removebg-preview.png" alt=""><figcaption></figcaption></figure>
+
 #### Login Screen Overview
 
 When you launch the Delivery Mobile application, the Login screen is displayed. This screen allows users to authenticate and access the application.
@@ -50,7 +52,12 @@ Use your assigned credentials to access the Delivery Mobile application. User cr
 1. Enter your **User ID** in the User ID field.
 2. Enter your **Password** in the Password field.
 3. Tap **Login** to authenticate and access the application.
+
+<figure><img src="../.gitbook/assets/Media (20) (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
+
 4. Upon successful authentication, the application opens and displays your assigned routes, missions, and delivery operations.
+
+<figure><img src="../.gitbook/assets/Media (21).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 #### Benefits
 
@@ -75,6 +82,8 @@ If an incorrect User ID or Password is entered, the application displays an **"I
 2. Ensure that Caps Lock is disabled.
 3. Re-enter the credentials and tap **Login** again.
 4. If the issue persists, contact your system administrator for assistance
+
+<figure><img src="../.gitbook/assets/Media (22).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 #### Productivity Tips
 
