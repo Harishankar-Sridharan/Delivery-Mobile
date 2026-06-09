@@ -1,4 +1,7 @@
 # Table of contents
 
-* [Dashboard](README.md)
-* [Loading](mobile_loading.md)
+* [App Launch](README.md)
+  * [Login](app-launch/login.md)
+* [Main Actions](main-actions/README.md)
+  * [Dashboard](main-actions/mobile_dashboard..md)
+  * [Loading](main-actions/mobile_loading.md)
