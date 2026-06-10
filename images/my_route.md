@@ -18,7 +18,7 @@ To access your assigned work, ensure you meet these requirements:
 
 #### Feature Overview
 
-* The **My Routes** page provides a centralized view of all routes currently assigned to the logged-in user. It allows drivers to monitor and manage their daily delivery activities from a single screen. Each route entry displays key information such as the route name, assigned missions, delivery progress, and route status. Users can select a route to view detailed information, access navigation, track mission completion, and perform delivery-related actions. This page helps drivers efficiently organize their workload and stay informed about the progress of their assigned routes throughout the day.
+* The **My Routes** page displays all routes currently assigned to the logged-in user. It provides a centralized workspace for managing daily delivery operations and monitoring route progress. Each route card displays essential information, including the route name, assigned missions, delivery progress, and current route status. Users can select a route to view detailed route information, access navigation, track mission completion, and perform delivery-related actions. This page helps drivers efficiently manage their assigned routes and stay updated on delivery activities throughout the day.
 
 <img src="../.gitbook/assets/mobile-my_route_timestamp_0_to_27.png" alt="" width="540">
 
