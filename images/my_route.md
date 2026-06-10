@@ -18,7 +18,7 @@ To access your assigned work, ensure you meet these requirements:
 
 #### Feature Overview
 
-* **My Routes page**: Displays all routes currently assigned to the logged-in user.
+* The **My Routes** page provides a centralized view of all routes currently assigned to the logged-in user. It allows drivers to monitor and manage their daily delivery activities from a single screen. Each route entry displays key information such as the route name, assigned missions, delivery progress, and route status. Users can select a route to view detailed information, access navigation, track mission completion, and perform delivery-related actions. This page helps drivers efficiently organize their workload and stay informed about the progress of their assigned routes throughout the day.
 
 <img src="../.gitbook/assets/mobile-my_route_timestamp_0_to_27.png" alt="" width="540">
 
@@ -29,7 +29,7 @@ To access your assigned work, ensure you meet these requirements:
 * **Three Dots**: Access operation activities like **Refresh My Tour** or **Optimize My Tour**.
 * **Missions List**: Displays cards for each machine containing customer info and delivery status.
 
-<img src="../.gitbook/assets/mobile-my_route_timestamp_1_to_09.png" alt="" width="540">
+<figure><img src="../.gitbook/assets/myroute (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 #### How To: Interact with Customers
 
@@ -38,7 +38,7 @@ To access your assigned work, ensure you meet these requirements:
 
 <figure><img src="../.gitbook/assets/mobile-my_route.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-3. Tap the **Navigation Icon** to open **Google Maps** for GPS guidance.
+3. Tap the **Navigation** icon to launch Google Maps and receive turn-by-turn directions to the customer's location. This helps drivers quickly navigate to the destination.
 
 <figure><img src="../.gitbook/assets/myroute_googlemaps.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -47,33 +47,46 @@ To access your assigned work, ensure you meet these requirements:
 1. Open the **Mission** card once you reach the destination.
 2. Tap the **Play Button** to begin the process.
 
-<img src="../.gitbook/assets/mobile-my_route_timestamp_3_to_05.png" alt="" width="540">
+<figure><img src="../.gitbook/assets/myroute (2).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-3. Select **Delivery** and scan the parcel **QR code** or **Barcode**.
+3. To complete a delivery, tap **Delivery** and scan the parcel's QR code or barcode. Once the scan is successful, you can continue with the delivery confirmation process.
+
+<figure><img src="../.gitbook/assets/myroute_QRcodescan.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
 4. Long-press the delivery to select **Validation Without Scan** if manual entry is needed.
+5. Tap **Confirm** on the validation pop-up.
 
 <img src="../.gitbook/assets/mobile-my_route_timestamp_3_to_38_to_3_to_43.gif" alt="" width="540">
 
-5. Tap **Confirm** on the validation pop-up.
-6. Choose a delivery option, such as **Dropped on the Doorstep**.
 
-![](../.gitbook/assets/mobile-my_route_timestamp_3_to_48.png)
 
-7. Tap the **Right Arrow** to capture a delivery photo.
+6. Tap the **Right Arrow** to proceed to the proof-of-delivery step and capture a photo of the delivered parcel. The photo serves as evidence that the delivery has been completed successfully.
 
 <img src="../.gitbook/assets/mobile-my_route_timestamp_4_to_02_to_4_to_18.gif" alt="" width="540">
 
-8. Tap the **Tick Mark** to collect the **Signature of the Recipient**.
+7. Tap the **Tick Mark** to proceed to the signature capture screen. Ask the recipient to sign on the device to acknowledge successful receipt of the parcel.
 
 <figure><img src="../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
 
-9. Tap the **Next Arrow** to provide the **Signature of the Delivery Man**.
+8. Tap the **Next Arrow** to proceed to the final confirmation step and provide the delivery person's signature. This signature confirms that the delivery process has been completed.
 
 <figure><img src="../.gitbook/assets/myrout_deliveryman_sign.png" alt=""><figcaption></figcaption></figure>
 
-10. Tap **Confirm** to validate and sync the delivery with the back office.
+9. Tap **Confirm** to validate the delivery details and finalize the delivery process. The delivery information is then synchronized with the back-office system.
 
 <img src="../.gitbook/assets/mobile-my_route_timestamp_4_to_44_to_5_to_00.gif" alt="" width="540">
+
+#### Back Office Synchronization
+
+Once delivery is confirmed:
+
+* Delivery status is updated in the back office.
+* Delivered missions appear in green.
+* Captured signatures are available in the back office.
+* Delivery photos are available in the back office.
+* Delivery logs are updated automatically.
+
+<figure><img src="../.gitbook/assets/myroute_backoffice.png" alt=""><figcaption></figcaption></figure>
 
 #### Productivity Tips
 
