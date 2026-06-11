@@ -1,6 +1,7 @@
 # Table of contents
 
 * [App Launch](README.md)
+* [Main Actions](images/main_actions.md)
   * [Login](app-launch/login.md)
 * [Main Actions](main-actions/README.md)
   * [Dashboard](main-actions/mobile_dashboard..md)
