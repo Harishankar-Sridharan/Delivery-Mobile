@@ -14,8 +14,6 @@ To access your assigned work, ensure you meet these requirements:
 
 <img src="../.gitbook/assets/mobile-my_route_timestamp_0_to_22.png" alt="" width="540">
 
-
-
 #### Feature Overview
 
 * The **My Routes** page displays all routes currently assigned to the logged-in user. It provides a centralized workspace for managing daily delivery operations and monitoring route progress. Each route card displays essential information, including the route name, assigned missions, delivery progress, and current route status. Users can select a route to view detailed route information, access navigation, track mission completion, and perform delivery-related actions. This page helps drivers efficiently manage their assigned routes and stay updated on delivery activities throughout the day.
@@ -29,7 +27,7 @@ To access your assigned work, ensure you meet these requirements:
 * **Three Dots**: Access operation activities like **Refresh My Tour** or **Optimize My Tour**.
 * **Missions List**: Displays cards for each machine containing customer info and delivery status.
 
-<figure><img src="../.gitbook/assets/myroute (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/myroute.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 #### How To: Interact with Customers
 
@@ -47,7 +45,7 @@ To access your assigned work, ensure you meet these requirements:
 1. Open the **Mission** card once you reach the destination.
 2. Tap the **Play Button** to begin the process.
 
-<figure><img src="../.gitbook/assets/myroute (2).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/myroute.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 3. To complete a delivery, tap **Delivery** and scan the parcel's QR code or barcode. Once the scan is successful, you can continue with the delivery confirmation process.
 
@@ -57,8 +55,6 @@ To access your assigned work, ensure you meet these requirements:
 5. Tap **Confirm** on the validation pop-up.
 
 <img src="../.gitbook/assets/mobile-my_route_timestamp_3_to_38_to_3_to_43.gif" alt="" width="540">
-
-
 
 6. Tap the **Right Arrow** to proceed to the proof-of-delivery step and capture a photo of the delivered parcel. The photo serves as evidence that the delivery has been completed successfully.
 

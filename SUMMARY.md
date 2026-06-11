@@ -5,6 +5,7 @@
   * [Login](app-launch/login.md)
 * [Main Actions](main-actions/README.md)
   * [Dashboard](main-actions/mobile_dashboard..md)
-  * [Loading](main-actions/mobile_loading.md)
+  * [Deposit](main-actions/deposit/README.md)
+    * [Loading](main-actions/deposit/mobile_loading.md)
 * [Create a Mission](createamission.md)
 * [My Route](images/my_route.md)
