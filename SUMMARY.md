@@ -1,11 +1,10 @@
 # Table of contents
 
 * [App Launch](README.md)
-* [Main Actions](images/main_actions.md)
   * [Login](app-launch/login.md)
-* [Main Actions](main-actions/README.md)
-  * [Dashboard](main-actions/mobile_dashboard..md)
-  * [Deposit](main-actions/deposit/README.md)
-    * [Loading](main-actions/deposit/mobile_loading.md)
+* [Main Actions](images/main_actions.md)
+  * [Dashboard](main_actions/mobile_dashboard..md)
+  * [Deposit](main_actions/deposit/README.md)
+    * [Loading](main_actions/deposit/mobile_loading.md)
 * [Create a Mission](createamission.md)
 * [My Route](images/my_route.md)
