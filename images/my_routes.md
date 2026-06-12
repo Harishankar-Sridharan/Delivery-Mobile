@@ -13,13 +13,11 @@ Access and manage your daily route schedules and delivery activities. Use this f
 
 #### Feature Overview
 
-* **My Routes Page**: Displays the route schedule and associated delivery activities for the selected date.&#x20;
-* **Calendar Icon**: Opens a date picker in the upper right corner to change the viewed schedule.&#x20;
+* **My Routes Page**: Displays the route schedule and associated delivery activities for the selected date.
+* **Calendar Icon**: Opens a date picker in the upper right corner to change the viewed schedule.
 * **Back Arrow**: Navigation button in the upper left corner to return to the main actions menu,.
 
-<img src="../.gitbook/assets/my_routes-call_timestamp_0_to_17.png" alt="" width="540">
-
-
+<img src="../.gitbook/assets/my_routes-call_timestamp_0_to_07.png" alt="" width="540">
 
 #### How To: View and Change Route Schedules
 
@@ -28,21 +26,15 @@ Access and manage your daily route schedules and delivery activities. Use this f
 
 <img src="../.gitbook/assets/my_routes-call_timestamp_0_to_07.png" alt="" width="540">
 
-
-
 3. Select a date, such as tomorrow's date, from the calendar,.
 4. Tap **OK** to confirm the selected date,.
 
 <img src="../.gitbook/assets/my_routes-call_timestamp_0_to_26_to_0_to_31.gif" alt="" width="540">
 
-
-
 5. Review the refreshed route list for the selected day,.
 6. Tap the **back arrow** to exit the schedule view,.
 
 <img src="../.gitbook/assets/my_routes-call_timestamp_0_to_48_to_0_to_53.gif" alt="" width="540">
-
-
 
 #### Productivity Tips
 
