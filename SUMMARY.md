@@ -11,4 +11,3 @@
     * [Loading](main_actions/deposit/mobile_loading.md)
 * [Create a Mission](createamission.md)
 * [Fullfilment - My Route](images/my_route.md)
-* [Dashboard](images/dashboard.md)
