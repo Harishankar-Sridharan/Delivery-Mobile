@@ -42,12 +42,11 @@ To manage unplanned deliveries, ensure you have an active dispatcher account and
 <img src="../../.gitbook/assets/mobile-unplanned_deliveries_timestamp_1_to_05_to_1_to_11.gif" alt="" width="540">
 
 3. Tap **Load** to mark the parcel as ready for delivery.&#x20;
+4. Tap the **Tick Mark** at the bottom of the screen.&#x20;
 
 <img src="../../.gitbook/assets/mobile-unplanned_deliveries_timestamp_1_to_15_to_1_to_23.gif" alt="" width="540">
 
-4. Tap the **Tick Mark** at the bottom of the screen.&#x20;
 
-<img src="../../.gitbook/assets/mobile-unplanned_deliveries_timestamp_1_to_24_to_1_to_25.gif" alt="" width="540">
 
 5. Tap **Confirm** when asked if you want to finish loading,.
 
