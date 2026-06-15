@@ -76,8 +76,6 @@ The Mobile Dashboard provides real-time visibility into route information, inclu
 
 <figure><img src="../.gitbook/assets/Media (16).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-
-
 ### **How To: Select an Agency**
 
 1. View the **Agency selection** pop-up that appears if you have multiple agencies.
@@ -86,16 +84,12 @@ The Mobile Dashboard provides real-time visibility into route information, inclu
 
 <figure><img src="../.gitbook/assets/image (9).png" alt="" width="540"><figcaption></figcaption></figure>
 
-
-
 ### How To: Scan a Barcode
 
 1. Tap **information scan** at the top right corner
 2. Point the device camera at the barcode.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt="" width="540"><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/image (8).png" alt="" width="540"><figcaption></figcaption></figure>
 
 ### How To: Synchronize Data
 
@@ -104,8 +98,6 @@ The Mobile Dashboard provides real-time visibility into route information, inclu
 3. Verify the **last synchronized timestamp** updates to the current time.
 
 <figure><img src="../.gitbook/assets/image (11).png" alt="" width="540"><figcaption></figcaption></figure>
-
-
 
 #### Productivity Tips
 
