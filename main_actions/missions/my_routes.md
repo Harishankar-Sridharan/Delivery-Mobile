@@ -9,7 +9,7 @@ Access and manage your daily route schedules and delivery activities. Use this f
 * Open the main actions menu.
 * Tap **My Routes** to view assigned routes,.
 
-<img src="../.gitbook/assets/my_routes-call_timestamp_0_to_07.png" alt="" width="540">
+<img src="../../.gitbook/assets/my_routes-call_timestamp_0_to_07.png" alt="" width="540">
 
 #### Feature Overview
 
@@ -17,24 +17,24 @@ Access and manage your daily route schedules and delivery activities. Use this f
 * **Calendar Icon**: Opens a date picker in the upper right corner to change the viewed schedule.
 * **Back Arrow**: Navigation button in the upper left corner to return to the main actions menu,.
 
-<img src="../.gitbook/assets/my_routes-call_timestamp_0_to_07.png" alt="" width="540">
+<img src="../../.gitbook/assets/my_routes-call_timestamp_0_to_07.png" alt="" width="540">
 
 #### How To: View and Change Route Schedules
 
 1. Tap **My Roots** from the main actions menu,.
 2. Tap the **calendar icon** in the upper right corner,.
 
-<img src="../.gitbook/assets/my_routes-call_timestamp_0_to_07.png" alt="" width="540">
+<img src="../../.gitbook/assets/my_routes-call_timestamp_0_to_07.png" alt="" width="540">
 
 3. Select a date, such as tomorrow's date, from the calendar,.
 4. Tap **OK** to confirm the selected date,.
 
-<img src="../.gitbook/assets/my_routes-call_timestamp_0_to_26_to_0_to_31.gif" alt="" width="540">
+<img src="../../.gitbook/assets/my_routes-call_timestamp_0_to_26_to_0_to_31.gif" alt="" width="540">
 
 5. Review the refreshed route list for the selected day,.
 6. Tap the **back arrow** to exit the schedule view,.
 
-<img src="../.gitbook/assets/my_routes-call_timestamp_0_to_48_to_0_to_53.gif" alt="" width="540">
+<img src="../../.gitbook/assets/my_routes-call_timestamp_0_to_48_to_0_to_53.gif" alt="" width="540">
 
 #### Productivity Tips
 

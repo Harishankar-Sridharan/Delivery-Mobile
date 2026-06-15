@@ -12,7 +12,7 @@ To manage unplanned deliveries, ensure you have an active dispatcher account and
 * Open the application and locate the **Main Action Screen**.
 * Tap **Unplanned Deliveries** to view passes awaiting assignment.
 
-<img src="../.gitbook/assets/mobile-unplanned_deliveries_timestamp_0_to_00.png" alt="" width="540">
+<img src="../../.gitbook/assets/mobile-unplanned_deliveries_timestamp_0_to_00.png" alt="" width="540">
 
 
 
@@ -22,7 +22,7 @@ To manage unplanned deliveries, ensure you have an active dispatcher account and
 * **Scan Icon**: Activates the camera to quickly identify a parcel by scanning its barcode.&#x20;
 * **Schedule**: Opens the date and route selection menu to assign selected parcels to the delivery plan.&#x20;
 
-<img src="../.gitbook/assets/mobile-unplanned_deliveries_timestamp_0_to_14.png" alt="" width="540">
+<img src="../../.gitbook/assets/mobile-unplanned_deliveries_timestamp_0_to_14.png" alt="" width="540">
 
 #### How To: Load and Assign Unplanned Deliveries
 
@@ -30,28 +30,28 @@ To manage unplanned deliveries, ensure you have an active dispatcher account and
 
 1. Tap the **Scan icon** and scan the parcel barcode for quick identification.&#x20;
 
-<img src="../.gitbook/assets/mobile-unplanned_deliveries_timestamp_0_to_20_to_0_to_34.gif" alt="" width="540">
+<img src="../../.gitbook/assets/mobile-unplanned_deliveries_timestamp_0_to_20_to_0_to_34.gif" alt="" width="540">
 
 2. Select a single parcel or multiple parcels from the list,.
 3. Long press the parcel to open the action pop-up menu.&#x20;
 
-<img src="../.gitbook/assets/mobile-unplanned_deliveries_timestamp_1_to_01_to_1_to_03.gif" alt="" width="540">
+<img src="../../.gitbook/assets/mobile-unplanned_deliveries_timestamp_1_to_01_to_1_to_03.gif" alt="" width="540">
 
 2. Tap **Select a reason** from the options provided.&#x20;
 
-<img src="../.gitbook/assets/mobile-unplanned_deliveries_timestamp_1_to_05_to_1_to_11.gif" alt="" width="540">
+<img src="../../.gitbook/assets/mobile-unplanned_deliveries_timestamp_1_to_05_to_1_to_11.gif" alt="" width="540">
 
 3. Tap **Load** to mark the parcel as ready for delivery.&#x20;
 
-<img src="../.gitbook/assets/mobile-unplanned_deliveries_timestamp_1_to_15_to_1_to_23.gif" alt="" width="540">
+<img src="../../.gitbook/assets/mobile-unplanned_deliveries_timestamp_1_to_15_to_1_to_23.gif" alt="" width="540">
 
 4. Tap the **Tick Mark** at the bottom of the screen.&#x20;
 
-<img src="../.gitbook/assets/mobile-unplanned_deliveries_timestamp_1_to_24_to_1_to_25.gif" alt="" width="540">
+<img src="../../.gitbook/assets/mobile-unplanned_deliveries_timestamp_1_to_24_to_1_to_25.gif" alt="" width="540">
 
 5. Tap **Confirm** when asked if you want to finish loading,.
 
-<img src="../.gitbook/assets/mobile-unplanned_deliveries_timestamp_1_to_28_to_1_to_33.gif" alt="" width="540">
+<img src="../../.gitbook/assets/mobile-unplanned_deliveries_timestamp_1_to_28_to_1_to_33.gif" alt="" width="540">
 
 6. Tap **OK** on the status message to proceed to your first checkpoint,.
 
@@ -60,11 +60,11 @@ To manage unplanned deliveries, ensure you have an active dispatcher account and
 1. Tap **Schedule** to begin the assignment process,.
 2. Select the delivery date and tap **OK.**&#x20;
 
-<img src="../.gitbook/assets/mobile-unplanned_deliveries_timestamp_2_to_09_to_2_to_18.gif" alt="" width="540">
+<img src="../../.gitbook/assets/mobile-unplanned_deliveries_timestamp_2_to_09_to_2_to_18.gif" alt="" width="540">
 
 3. Select the desired route from the drop-down menu and tap **Confirm.**&#x20;
 
-<img src="../.gitbook/assets/mobile-unplanned_deliveries_timestamp_2_to_19_to_2_to_29.gif" alt="" width="540">
+<img src="../../.gitbook/assets/mobile-unplanned_deliveries_timestamp_2_to_19_to_2_to_29.gif" alt="" width="540">
 
 #### Productivity Tips
 
