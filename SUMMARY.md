@@ -10,6 +10,7 @@
   * [Missions](main_actions/missions/README.md)
     * [My Routes](main_actions/missions/my_routes.md)
     * [Unplanned Deliveries](main_actions/missions/unplanned_deliveries.md)
+    * [Unscheduled Collections](main_actions/missions/unplanned_deliveries-1.md)
   * [Deposit](main_actions/deposit/README.md)
     * [Loading](main_actions/deposit/mobile_loading.md)
 * [Create a Mission](createamission.md)
