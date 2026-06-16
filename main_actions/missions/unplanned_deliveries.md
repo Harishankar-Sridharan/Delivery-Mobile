@@ -22,7 +22,7 @@ To manage unplanned deliveries, ensure you have an active dispatcher account and
 * **Scan Icon**: Activates the camera to quickly identify a parcel by scanning its barcode.&#x20;
 * **Schedule**: Opens the date and route selection menu to assign selected parcels to the delivery plan.&#x20;
 
-<img src="../../.gitbook/assets/mobile-unplanned_deliveries_timestamp_0_to_14.png" alt="" width="540">
+<figure><img src="../../.gitbook/assets/Unplanned_deliveries.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 #### How To: Load and Assign Unplanned Deliveries
 
@@ -30,7 +30,7 @@ To manage unplanned deliveries, ensure you have an active dispatcher account and
 
 1. Tap the **Scan icon** and scan the parcel barcode for quick identification.&#x20;
 
-<img src="../../.gitbook/assets/mobile-unplanned_deliveries_timestamp_0_to_20_to_0_to_34.gif" alt="" width="540">
+<figure><img src="../../.gitbook/assets/Unplanned_deliveries (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 2. Select a single parcel or multiple parcels from the list,.
 3. Long press the parcel to open the action pop-up menu.&#x20;
