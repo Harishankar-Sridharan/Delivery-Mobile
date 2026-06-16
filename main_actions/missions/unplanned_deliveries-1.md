@@ -28,31 +28,22 @@ To manage unplanned deliveries, ensure you have an active dispatcher account and
 
 **Identifying and Loading Parcels**
 
-1. Tap the **Scan icon** and scan the parcel barcode for quick identification.&#x20;
+1. Select a single parcel or multiple parcels from the list,.
+2. Long press the parcel to open the action pop-up menu
 
-<figure><img src="../../.gitbook/assets/Unplanned_deliveries (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Unscheduled collections 1 (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-2. Select a single parcel or multiple parcels from the list,.
-3. Long press the parcel to open the action pop-up menu.&#x20;
+.&#x20;
 
-<img src="../../.gitbook/assets/mobile-unplanned_deliveries_timestamp_1_to_01_to_1_to_03.gif" alt="" width="540">
+3. Tap _Go to Pickup_ to open the pickup location in Google Maps for navigation.
 
-2. Tap **Select a reason** from the options provided.&#x20;
+<figure><img src="../../.gitbook/assets/Unscheduled collections 2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-<img src="../../.gitbook/assets/mobile-unplanned_deliveries_timestamp_1_to_05_to_1_to_11.gif" alt="" width="540">
+4. Tap _Mission Details_ to view detailed mission information and attach related documents.
 
-3. Tap **Load** to mark the parcel as ready for delivery.&#x20;
-4. Tap the **Tick Mark** at the bottom of the screen.&#x20;
+<figure><img src="../../.gitbook/assets/Unscheduled collections 3.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-<img src="../../.gitbook/assets/mobile-unplanned_deliveries_timestamp_1_to_15_to_1_to_23.gif" alt="" width="540">
-
-
-
-5. Tap **Confirm** when asked if you want to finish loading,.
-
-<img src="../../.gitbook/assets/mobile-unplanned_deliveries_timestamp_1_to_28_to_1_to_33.gif" alt="" width="540">
-
-6. Tap **OK** on the status message to proceed to your first checkpoint,.
+5. Tap _Cancel_ to cancel the mission.
 
 **Assigning Parcels to a Route**
 
@@ -67,6 +58,5 @@ To manage unplanned deliveries, ensure you have an active dispatcher account and
 
 #### Productivity Tips
 
-* 💡 **Barcode Efficiency**: Use the scan icon to instantly find a specific parcel instead of scrolling through the list.
 * 💡 **Bulk Processing**: Select multiple parcels at once to assign several deliveries to a route in a single action,.
 * 💡 **Visual Verification**: Check for the small green circle next to a parcel to confirm it has been successfully loaded,.
