@@ -12,6 +12,7 @@
     * [Unplanned Deliveries](main_actions/missions/unplanned_deliveries.md)
     * [Unscheduled Collections](main_actions/missions/unplanned_deliveries-1.md)
     * [Create my Tour](images/create_my_tour.md)
+    * [Add Packages on Route](images/add_packages_on_route.md)
   * [Deposit](main_actions/deposit/README.md)
     * [Loading](main_actions/deposit/mobile_loading.md)
 * [Create a Mission](createamission.md)
