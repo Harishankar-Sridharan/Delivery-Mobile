@@ -1,9 +1,5 @@
 # Add Packages on Route
 
-## add\_packages\_on\_route
-
-## mobile
-
 The Add Packages on Route feature allows you to quickly integrate new parcels into an existing delivery schedule. This ensures your drivers have updated workloads without manual paperwork. Achieve better route efficiency and real-time package tracking directly from the mobile interface.
 
 #### Getting Started
@@ -75,4 +71,4 @@ The Add Packages on Route feature allows you to quickly integrate new parcels in
 #### Productivity Tips
 
 * 💡 **Automatic Sequencing**: Toggle the **Order my parcels** option to let the system optimize your delivery order,.
-* ⚠️ **Cross-Agency Handling**: Be aware that scanning packages from different agencies triggers a warning that requires manual confirmation,.
+* ⚠️ **Cross-Agency Handling**: Be aware that scanning packages from different agencies triggers a warning that requires manual confirmation.&#x20;
