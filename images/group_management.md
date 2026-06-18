@@ -1,84 +1,81 @@
-# group_management
-# mobile
+# Group Management
 
 Group management allows multiple processes or machines to be grouped together inside a container, pallet, or transport unit. This feature helps dispatchers organize items into single entities for easier transport tracking. Users can complete the grouping process quickly by scanning items and assigning them to specific containers.
 
-### Getting Started
+#### Getting Started
 
-*   Prerequisites: Ensure the **can aggregate several machines** setting is enabled for your container types.
-*   System Requirements: Access to the **Main actions** menu in the mobile application.
+* Prerequisites: Ensure the **can aggregate several machines** setting is enabled for your container types.
+* System Requirements: Access to the **Main actions** menu in the mobile application.
+* From the **Main actions** screen, scroll down to find the management options.
+* Tap on **Group Management** to open the feature.
 
-1.  From the **Main actions** screen, scroll down to find the management options.
+<img src="../.gitbook/assets/mobile-group_management_timestamp_0_to_11.png" alt="" width="540">
 
-    ![Frame at 0:11](../images/mobile-group_management_timestamp_0_to_11.png "Main Actions – Scroll down to locate the group management feature.")
+*
 
-2.  Tap on **Group Management** to open the feature.
+#### Feature Overview
 
-    ![Frame at 0:20](../images/mobile-group_management_timestamp_0_to_20.png "Group Management – The button to enter the grouping workflow.")
+* **Barcode Scanner**: Use this tool at the bottom of the screen to identify machines.
+* **Set an Address**: This field allows you to assign a destination to the container.
+* **Type of Container**: This dropdown menu provides options like **Pallet**, **Parcel**, or **Parts**.
 
-### Feature Overview
+#### How To: Create a Machine Group
 
-*   **Barcode Scanner**: Use this tool at the bottom of the screen to identify machines.
+1. Open the **Group Management** page from the main menu.
+2. Tap the scan icon to scan the first machine.
 
-    ![Frame at 0:27](../images/mobile-group_management_timestamp_0_to_27.png "Barcode Scanner – The scan icon used to start adding machines.")
+<img src="../.gitbook/assets/mobile-group_management_timestamp_0_to_27.png" alt="" width="540">
 
-*   **Set an Address**: This field allows you to assign a destination to the container.
+2. Tap and scan additional machines to add them to the same group.
 
-    ![Frame at 1:24](../images/mobile-group_management_timestamp_1_to_24.png "Set an Address – The option to define where the group is going.")
+<figure><img src="../.gitbook/assets/mobile-group_management_timestamp_1_to_03_to_1_to_16.gif" alt="" width="540"><figcaption></figcaption></figure>
 
-*   **Type of Container**: This dropdown menu provides options like **Pallet**, **Parcel**, or **Parts**.
+4. Tap the tick mark once all machines are scanned.
+5. Tap **Set an Address** on the **New Container** page.
 
-    ![Frame at 1:48](../images/mobile-group_management_timestamp_1_to_48.png "Type of Container – The selection menu for the transport unit type.")
+<img src="../.gitbook/assets/mobile-group_management_timestamp_1_to_24.png" alt="" width="540">
 
-*   **Confirm**: Use this button to finalize the group and complete the process.
+4. Search for an address or tap **Around Me** to use your current location.
 
-    ![Frame at 2:32](../images/mobile-group_management_timestamp_2_to_32.png "Confirm – The final action button to save the group.")
+<img src="../.gitbook/assets/mobile-group_management_timestamp_1_to_29_to_1_to_36.gif" alt="" width="540">
 
-### How To: Create a Machine Group
+4. Tap **Type of Container** and select the appropriate unit from the menu.
+5. Scan the container **Barcode** or tap the tick mark to proceed.
 
-1.  Open the **Group Management** page from the main menu.
+<img src="../.gitbook/assets/mobile-group_management_timestamp_1_to_43_to_1_to_54.gif" alt="" width="540">
 
-    ![Frame at 0:27](../images/mobile-group_management_timestamp_0_to_27.png "Group Management Page – The starting screen for grouping machines.")
 
-2.  Tap the scan icon to scan the first machine.
 
-    ![Flow 0:27 to 1:03](../images/mobile-group_management_timestamp_0_to_27_to_1_to_03.gif "Scan Icon – Activating the scanner to identify the first item.")
+6. Tap **Confirm** to complete the grouping.
 
-3.  Tap and scan additional machines to add them to the same group.
+<img src="../.gitbook/assets/mobile-group_management_timestamp_2_to_32.png" alt="" width="540">
 
-    ![Flow 1:03 to 1:16](../images/mobile-group_management_timestamp_1_to_03_to_1_to_16.gif "Add Machines – Scanning multiple machines into the current session.")
+7. The updated mission status can be viewed in the Back Office.
 
-4.  Tap the tick mark once all machines are scanned.
+<figure><img src="../.gitbook/assets/msedge_M9O9i0qlrG.png" alt="" width="563"><figcaption></figcaption></figure>
 
-    ![Frame at 1:20](../images/mobile-group_management_timestamp_1_to_20.png "Tick Mark – Proceeding to the container details after scanning.")
+**Troubleshooting**
 
-5.  Tap **Set an Address** on the **New Container** page.
+* If you see a "No address selected" popup, the system will use the **Agency of Address** by default.
 
-    ![Frame at 1:24](../images/mobile-group_management_timestamp_1_to_24.png "New Container Page – The screen where container details are entered.")
+#### Ungroup a Child Mission
 
-6.  Search for an address or tap **Around Me** to use your current location.
+1. On the **Ungroup** page, tap the **Scan** icon for the container.
 
-    ![Flow 1:29 to 1:36](../images/mobile-group_management_timestamp_1_to_29_to_1_to_36.gif "Address Selection – Choosing the destination for the new container.")
+<figure><img src="../.gitbook/assets/Ungroup 1.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-7.  Tap **Type of Container** and select the appropriate unit from the menu.
+2. Select the child mission(s) to be ungrouped and tap the **Tick** icon.
 
-    ![Flow 1:43 to 1:54](../images/mobile-group_management_timestamp_1_to_43_to_1_to_54.gif "Container Menu – Selecting the transport unit type from the list.")
+<figure><img src="../.gitbook/assets/Un group 2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-8.  Scan the container **Barcode** or tap the tick mark to proceed.
+3. Tap **Confirm** to proceed with the ungroup operation.
+4. The selected mission(s) will be successfully removed from the group.
+5. The updated mission status can be viewed in the Back Office.
 
-    ![Frame at 2:13](../images/mobile-group_management_timestamp_2_to_13.png "Barcode – Scanning the physical container identifier.")
+<figure><img src="../.gitbook/assets/msedge_ZHvmbqTecY.png" alt="" width="563"><figcaption></figcaption></figure>
 
-9.  Tap **Confirm** to complete the grouping.
+#### Productivity Tips
 
-    ![Frame at 2:32](../images/mobile-group_management_timestamp_2_to_32.png "Confirm – Finalizing the successful group creation.")
-
-#### Troubleshooting
-*   If you see a "No address selected" popup, the system will use the **Agency of Address** by default.
-
-    ![Frame at 2:21](../images/mobile-group_management_timestamp_2_to_21.png "Address Warning – The popup shown when a manual address is missing.")
-
-### Productivity Tips
-
-*   💡 **Quick Location**: Use the **Around Me** button to quickly set the address to your current GPS position.
-*   ⚠️ **Container Settings**: You must enable **can aggregate several machines** in settings or container types will not be selectable.
-
+* 💡 **Quick Location**: Use the **Around Me** button to quickly set the address to your current GPS position.
+* ⚠️ **Container Settings**: You must enable **can aggregate several machines** in settings or container types will not be selectable.
+* &#x20;**Prerequisite Configuration**: Ensure that the **Can Aggregate Several Missions** option is enabled before creating child missions. This setting allows multiple missions to be grouped and managed as child missions within a single container.&#x20;
