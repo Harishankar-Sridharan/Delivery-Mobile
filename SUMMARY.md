@@ -16,6 +16,7 @@
     * [Update Missions](images/update_missions.md)
   * [Deposit](main_actions/deposit/README.md)
     * [Receipt](main_actions/deposit/receipt.md)
+    * [Group Management](images/group_management.md)
     * [Loading](main_actions/deposit/mobile_loading.md)
 * [Create a Mission](createamission.md)
 * [Fullfilment - My Route](images/my_route.md)
