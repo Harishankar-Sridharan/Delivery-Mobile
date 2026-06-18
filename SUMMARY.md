@@ -15,6 +15,7 @@
     * [Add Packages on Route](images/add_packages_on_route.md)
     * [Update Missions](images/update_missions.md)
   * [Deposit](main_actions/deposit/README.md)
+  * [Receipt](images/receipt.md)
     * [Loading](main_actions/deposit/mobile_loading.md)
 * [Create a Mission](createamission.md)
 * [Fullfilment - My Route](images/my_route.md)
