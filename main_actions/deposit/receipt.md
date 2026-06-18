@@ -67,3 +67,5 @@
 
 * 💡 **Back Office Monitoring**: View all reception updates and machine logs in the back office immediately after confirmation.
 * ⚠️ **Configuration Limits**: Sub-statuses are limited to what has been defined in your back-office configuration.
+* ⚠️ **Mandatory Proof Collection**: Ensure all mandatory proof, such as customer signatures or photos, is captured according to the Back Office sub-status configuration.
+
