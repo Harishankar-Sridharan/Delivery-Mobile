@@ -19,6 +19,7 @@
     * [Group Management](images/group_management.md)
     * [Docking](images/docking.md)
     * [Store](images/store.md)
+    * [Prepare Packages](main_actions/deposit/store-1.md)
     * [Unload](images/unload.md)
     * [Loading](main_actions/deposit/mobile_loading.md)
 * [Create a Mission](createamission.md)
