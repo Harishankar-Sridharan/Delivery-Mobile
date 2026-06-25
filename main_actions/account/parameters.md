@@ -10,7 +10,7 @@ The **parameters** feature allows you to customize your application settings and
 * Scroll down to the bottom of the list.
 * Tap **Parameters** to open the settings page.
 
-<img src="../../.gitbook/assets/mobile-parameters_timestamp_0_05_to_0_12 (1).gif" alt="" width="540">
+<img src="../../.gitbook/assets/mobile-parameters_timestamp_0_05_to_0_12.gif" alt="" width="540">
 
 #### Feature Overview
 
@@ -22,18 +22,18 @@ The **parameters** feature allows you to customize your application settings and
 * **Date format**: Choose between DDMMYY or MMDDYY formats.
 * **About me**: Provides technical details like synchronization status and connection type.
 
-<img src="../../.gitbook/assets/mobile-parameters_timestamp_1_15_to_1_19 (1).png" alt="" width="540">
+<img src="../../.gitbook/assets/mobile-parameters_timestamp_1_15_to_1_19.png" alt="" width="540">
 
 #### How To: Clear Application Cache
 
 1. Tap the gear icon next to **Clear the catch**.
 
-<img src="../../.gitbook/assets/mobile-parameters_timestamp_0_19_to_0_23 (1).png" alt="" width="540">
+<img src="../../.gitbook/assets/mobile-parameters_timestamp_0_19_to_0_23.png" alt="" width="540">
 
 3. Review the confirmation pop-up.
 4. Tap **Confirm** to clear the catch.
 
-<img src="../../.gitbook/assets/mobile-parameters_timestamp_0_19_to_0_29 (1).gif" alt="" width="540">
+<img src="../../.gitbook/assets/mobile-parameters_timestamp_0_19_to_0_29.gif" alt="" width="540">
 
 #### How To: Change Unit Measurements
 
