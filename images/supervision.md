@@ -24,7 +24,7 @@ The Supervision feature provides real-time visibility into your delivery operati
 2. Check the percentage of routes completed at the top of the screen.
 3. Scroll down to see specific machine collection statuses for each route.
 
-<figure><img src="../.gitbook/assets/mobile-supervision_timestamp_0_to_31_to_0_to_39 (1).gif" alt="" width="540"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/mobile-supervision_timestamp_0_to_31_to_0_to_39.gif" alt="" width="540"><figcaption></figcaption></figure>
 
 #### How To: View Route Details
 
@@ -32,11 +32,11 @@ The Supervision feature provides real-time visibility into your delivery operati
 2. Review customer names and assigned deliverers for each entry.
 3. Refresh the page to display the most recent data from the field.
 
-<figure><img src="../.gitbook/assets/mobile-supervision_timestamp_0_to_51 (1).png" alt="" width="540"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/mobile-supervision_timestamp_0_to_51.png" alt="" width="540"><figcaption></figcaption></figure>
 
 4. Tap the Maps icon to open the location in Maps.
 
-<figure><img src="../.gitbook/assets/mobile-supervision_timestamp_1_to_09 (1).png" alt="" width="540"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/mobile-supervision_timestamp_1_to_09.png" alt="" width="540"><figcaption></figcaption></figure>
 
 #### How To: Filter and Search the Dashboard
 
@@ -46,7 +46,7 @@ The Supervision feature provides real-time visibility into your delivery operati
 4. Enter a delivery band or route name in the **Search** box.
 5. Tap **Apply** to save your filter selections.
 
-<figure><img src="../.gitbook/assets/mobile-supervision_timestamp_1_to_48 (1).png" alt="" width="540"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/mobile-supervision_timestamp_1_to_48.png" alt="" width="540"><figcaption></figcaption></figure>
 
 #### Productivity Tips
 

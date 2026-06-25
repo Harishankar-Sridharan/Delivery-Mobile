@@ -25,5 +25,7 @@
     * [Transfer Missions](images/transfer_missions.md)
     * [Supervision](images/supervision.md)
     * [Parameters](images/parameters.md)
+* [Account](main_actions-1/README.md)
+  * [Parameters](main_actions-1/parameters.md)
 * [Create a Mission](createamission.md)
 * [Fullfilment - My Route](images/my_route.md)
