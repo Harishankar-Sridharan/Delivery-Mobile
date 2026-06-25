@@ -24,6 +24,6 @@
     * [Loading](main_actions/deposit/mobile_loading.md)
     * [Transfer Missions](images/transfer_missions.md)
     * [Supervision](images/supervision.md)
-  * [Account](account.md)
+  * [Account](main_actions/account.md)
 * [Create a Mission](createamission-1.md)
 * [Fullfilment - My Route](images/my_route.md)
