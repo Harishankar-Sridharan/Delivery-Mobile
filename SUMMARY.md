@@ -28,5 +28,6 @@
     * [Parameters](main_actions/account/parameters.md)
     * [Agencies](images/agencies.md)
     * [Rate the app](images/ratetheapp.md)
+    * [What's new](images/what'snew.md)
 * [Create a Mission](createamission-1.md)
 * [Fullfilment - My Route](images/my_route.md)
