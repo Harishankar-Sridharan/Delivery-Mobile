@@ -1,42 +1,33 @@
-# what'snew
-# mobile
+# What's new
 
 The "What's New" feature provides users with immediate access to information regarding the latest product updates,. Planners and dispatchers can use this tool to stay informed about recent improvements made to **Nomadia Delivery**,. This ensures that the team is always aware of the most current software capabilities,.
 
-### Getting Started
+#### Getting Started
 
-*   Access to the **Nomadia Delivery** mobile application,.
-*   An active user account with permissions to view system updates,.
+* Access to the **Nomadia Delivery** mobile application,.
+* An active user account with permissions to view system updates,.
+* Open the application to reach the **Main Actions** menu.&#x20;
+* Tap **What's new**
 
-1.  Open the application to reach the **Main Actions** menu,.
+<img src="../.gitbook/assets/mobile-what&#x27;snew_timestamp_0_to_07.png" alt="" width="540">
 
-![Frame at 0:07](../images/mobile-what'snew_timestamp_0_to_07.png "Main Actions – The primary navigation area for secondary application features.")
+#### Feature Overview
 
-### Feature Overview
+* **What's New**: This button navigates the user to the update summary screen.&#x20;
+* **Latest Update Page**: This screen displays all current feature descriptions and recent changes,.&#x20;
 
-*   **What's New**: This button navigates the user to the update summary screen,.
-![Frame at 0:17](../images/mobile-what'snew_timestamp_0_to_17.png "What's New button – The entry point for viewing the latest software release notes.")
+#### How To: Access Latest Updates
 
-*   **Latest Update Page**: This screen displays all current feature descriptions and recent changes,.
-![Frame at 0:20](../images/mobile-what'snew_timestamp_0_to_20.png "Latest Update Page – The dedicated interface for reading about recent software improvements.")
+1. Locate the **Main Actions** section at the top of the interface,.
+2. Tap down within the menu options,.
+3. Tap on the **What's New** option.&#x20;
 
-### How To: Access Latest Updates
+<img src="../.gitbook/assets/mobile-what&#x27;snew_timestamp_0_to_07_to_0_to_17.gif" alt="" width="540">
 
-1.  Locate the **Main Actions** section at the top of the interface,.
+4. Review the **Latest Update Page** to see recent changes to **Nomadia Delivery**,.
 
-![Frame at 0:07](../images/mobile-what'snew_timestamp_0_to_07.png "Main Actions – The main menu where the feature update link is located.")
+<img src="../.gitbook/assets/mobile-what&#x27;snew_timestamp_0_to_20.png" alt="" width="540">
 
-2.  Tap down within the menu options,.
+#### Productivity Tips
 
-3.  Tap on the **What's New** option,.
-
-![Flow 0:07 to 0:17](../images/mobile-what'snew_timestamp_0_to_07_to_0_to_17.gif "Accessing What's New – The sequence of opening the menu and selecting the update feature.")
-
-4.  Review the **Latest Update Page** to see recent changes to **Nomadia Delivery**,.
-
-![Frame at 0:20](../images/mobile-what'snew_timestamp_0_to_20.png "Latest Update Page – The final view showing the list of new features.")
-
-### Productivity Tips
-
-- 💡 **Stay Updated**: Regularly check this section to read about recent feature updates and optimize your workflow,.
-
+* 💡 **Stay Updated**: Regularly check this section to read about recent feature updates and optimize your workflow,.
