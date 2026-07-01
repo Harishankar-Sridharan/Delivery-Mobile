@@ -17,7 +17,7 @@ The Mobile Dashboard provides real-time visibility into route information, inclu
 * **Create**: Generate operational actions directly within the mobile app.
 * **Receipt**: Manage and track parcel receipt operations.
 * **Docking**: Organize activities related to docking during operational workflows.
-* **Prepare**: Set up parcels and machines before beginning delivery tasks.
+* **Prepare**: Set up parcels and missions before beginning delivery tasks.
 
 <figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="540"><figcaption></figcaption></figure>
 
@@ -36,11 +36,11 @@ The Mobile Dashboard provides real-time visibility into route information, inclu
 
 <img src="../../.gitbook/assets/mobile-mobile_dashboard_timestamp_3_to_39.png" alt="" width="540">
 
-* **My Latest Action**: Review the most recent operational tasks and scanned machines.
+* **My Latest Action**: Review the most recent operational tasks and scanned missions.
 
 <figure><img src="../../.gitbook/assets/Media (16).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-* **Main Menu**: Open the side menu to access all application modules.
+* **Main Menu**: Tap three line menu to access all application modules.
 
 <img src="../../.gitbook/assets/mobile-mobile_dashboard_timestamp_4_to_30.png" alt="" width="540">
 
@@ -71,7 +71,7 @@ The Mobile Dashboard provides real-time visibility into route information, inclu
 #### How To: Review Recent Activity
 
 1. Scroll to the **My Latest Action** section on the dashboard.
-2. Identify the **Scanned machines** and mission information.
+2. Identify the **Scanned missions** and mission information.
 3. Note the **Scanned date and time** for each action.
 
 <figure><img src="../../.gitbook/assets/Media (16).jpg" alt="" width="563"><figcaption></figcaption></figure>
@@ -83,13 +83,6 @@ The Mobile Dashboard provides real-time visibility into route information, inclu
 3. Confirm the **dashboard** refreshes to display the active agency.
 
 <figure><img src="../../.gitbook/assets/image (9).png" alt="" width="540"><figcaption></figcaption></figure>
-
-### How To: Scan a Barcode
-
-1. Tap **information scan** at the top right corner
-2. Point the device camera at the barcode.
-
-<figure><img src="../../.gitbook/assets/image (8).png" alt="" width="540"><figcaption></figcaption></figure>
 
 ### How To: Synchronize Data
 
@@ -105,4 +98,3 @@ The Mobile Dashboard provides real-time visibility into route information, inclu
 * 💡 **Progress Tracking**: Monitor the **Route progress** bar to stay on schedule during deliveries.
 * ⚠️ **Loading Accuracy**: Always check the **Loading status** to ensure parcels aren't "partially loaded" before departure.
 * 💡 **Latest Updates**: Use the **Refresh** button regularly to download the newest data from the back office.
-* 💡 **Instant Information**: Use the **information scan** to quickly access details about machines or operational activities without manual searching.
