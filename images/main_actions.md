@@ -17,6 +17,8 @@ The main actions menu allows you to manage your profile and view essential app i
 * **Version Number**: Shows the current software version in the upper right corner.
 * **QR Code Icon**: Provides access to your unique code for transfer operations.
 
+<figure><img src="../.gitbook/assets/Main actions.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
 #### How To: Update Profile Image
 
 1. Tap the **camera icon** displayed inside the logo area.
