@@ -39,3 +39,4 @@ The **navigate to** feature allows you to access and manage your saved navigatio
 #### Productivity Tips
 
 * 💡 **Quick Navigation**: Save frequent destinations to the list for instant access during route execution.
+* 💡 Location navigation to the agency is enabled by default in the app
