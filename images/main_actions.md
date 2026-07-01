@@ -13,11 +13,11 @@ The main actions menu allows you to manage your profile and view essential app i
 
 #### Feature Overview
 
-* **Application Logo**: Displays your current profile picture in the sidebar.&#x20;
-* **Version Number**: Shows the current software version in the upper right corner.&#x20;
-* **QR Code Icon**: Provides access to your unique code for transfer operations.&#x20;
+* **Application Logo**: Displays your current profile picture in the sidebar.
+* **Version Number**: Shows the current software version in the upper right corner.
+* **QR Code Icon**: Provides access to your unique code for transfer operations.
 
-<figure><img src="../.gitbook/assets/mobile-main_actions_timestamp_0_to_32.png" alt="" width="540"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Main actions 1.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 #### How To: Update Profile Image
 
@@ -30,8 +30,6 @@ The main actions menu allows you to manage your profile and view essential app i
 4. Tap **cancel** to stop the operation without making changes.
 
 <img src="../.gitbook/assets/mobile-main_actions_timestamp_0_to_51_to_1_to_00.gif" alt="" width="540">
-
-
 
 #### How To: Use QR Code for Transfers
 
