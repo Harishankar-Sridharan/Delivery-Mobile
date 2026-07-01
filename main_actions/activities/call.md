@@ -26,7 +26,7 @@ The contact management feature allows you to access and update your list of esse
 4. Enter the phone number in the **Phone Number** box.
 5. Tap **Add** to save the information.
 
-<img src="../../.gitbook/assets/mobile-call_timestamp_0_to_30_to_0_to_46.gif" alt="" width="540">
+<figure><img src="../../.gitbook/assets/call 1.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 6. Tap the **X Icon** at the bottom to return to the **Main Action Screen**.
 
