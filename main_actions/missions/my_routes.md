@@ -1,13 +1,13 @@
 # My Routes
 
-Access and manage your daily route schedules and delivery activities. Use this feature to view current assignments and plan for future delivery tasks efficiently,.
+Access and manage your daily route schedules and delivery activities. Use this feature to view current assignments and plan for future delivery tasks efficiently.&#x20;
 
 #### Getting Started
 
 * Active Nomadia Delivery account.
 * Assigned routes for the selected date.
 * Open the main actions menu.
-* Tap **My Routes** to view assigned routes,.
+* Tap **My Routes** to view assigned routes.&#x20;
 
 <img src="../../.gitbook/assets/my_routes-call_timestamp_0_to_07.png" alt="" width="540">
 
@@ -15,27 +15,27 @@ Access and manage your daily route schedules and delivery activities. Use this f
 
 * **My Routes Page**: Displays the route schedule and associated delivery activities for the selected date.
 * **Calendar Icon**: Opens a date picker in the upper right corner to change the viewed schedule.
-* **Back Arrow**: Navigation button in the upper left corner to return to the main actions menu,.
+* **Back Arrow**: Navigation button in the upper left corner to return to the main actions menu.&#x20;
 
 <img src="../../.gitbook/assets/my_routes-call_timestamp_0_to_07.png" alt="" width="540">
 
 #### How To: View and Change Route Schedules
 
-1. Tap **My Roots** from the main actions menu,.
-2. Tap the **calendar icon** in the upper right corner,.
+1. Tap **My Routes** from the main actions menu.&#x20;
+2. Tap the **calendar icon** in the upper right corner.&#x20;
 
 <img src="../../.gitbook/assets/my_routes-call_timestamp_0_to_07.png" alt="" width="540">
 
-3. Select a date, such as tomorrow's date, from the calendar,.
-4. Tap **OK** to confirm the selected date,.
+3. Select a date, such as tomorrow's date, from the calendar.&#x20;
+4. Tap **OK** to confirm the selected date.&#x20;
 
 <img src="../../.gitbook/assets/my_routes-call_timestamp_0_to_26_to_0_to_31.gif" alt="" width="540">
 
-5. Review the refreshed route list for the selected day,.
-6. Tap the **back arrow** to exit the schedule view,.
+5. Review the refreshed route list for the selected day.&#x20;
+6. Tap the **back arrow** to exit the schedule view.&#x20;
 
 <img src="../../.gitbook/assets/my_routes-call_timestamp_0_to_48_to_0_to_53.gif" alt="" width="540">
 
 #### Productivity Tips
 
-* 💡 **Future Planning**: Use the calendar to review route plans for future dates and stay prepared,.
+* 💡 **Future Planning**: Use the calendar to review route plans for future dates and stay prepared.&#x20;
