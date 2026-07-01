@@ -17,8 +17,6 @@ The main actions menu allows you to manage your profile and view essential app i
 * **Version Number**: Shows the current software version in the upper right corner.
 * **QR Code Icon**: Provides access to your unique code for transfer operations.
 
-<figure><img src="../.gitbook/assets/Main actions 1.jpg" alt="" width="563"><figcaption></figcaption></figure>
-
 #### How To: Update Profile Image
 
 1. Tap the **camera icon** displayed inside the logo area.
@@ -27,7 +25,8 @@ The main actions menu allows you to manage your profile and view essential app i
 
 2. Select **choose an image** to pick a file from your gallery.
 3. Select **take a picture** to capture a new photo with your camera.
-4. Tap **cancel** to stop the operation without making changes.
+4. Complete the steps (the bug has been fixed)
+5. Tap **cancel** to stop the operation without making changes.
 
 <img src="../.gitbook/assets/mobile-main_actions_timestamp_0_to_51_to_1_to_00.gif" alt="" width="540">
 
