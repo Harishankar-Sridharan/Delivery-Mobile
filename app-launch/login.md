@@ -16,7 +16,7 @@ To ensure the best experience with the Nomadia Delivery application, please chec
 1. Download the **Delivery Mobile** application from the **Google Play Store** (Android) or **Apple App Store** (iOS).
 2. Once the installation is complete, locate the **Delivery Mobile** application icon on your device and tap it to launch the app.
 
-<figure><img src="../.gitbook/assets/Media__19_-removebg-preview.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_0tUkrydvNI.png" alt=""><figcaption></figcaption></figure>
 
 #### Login Screen Overview
 
@@ -57,7 +57,7 @@ Use your assigned credentials to access the Delivery Mobile application. User cr
 
 4. Upon successful authentication, the application opens and displays your assigned routes, missions, and delivery operations.
 
-<figure><img src="../.gitbook/assets/Media (21).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/login 1.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 #### Benefits
 
