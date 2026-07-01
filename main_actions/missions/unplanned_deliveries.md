@@ -7,10 +7,16 @@ Manage parcels that have not yet been assigned to a delivery route using the unp
 To manage unplanned deliveries, ensure you have an active dispatcher account and your mobile device's camera is functioning for scanning.
 
 * Active Nomadia Delivery mobile application.
-* Parcels with valid barcodes or QR codes.
+* Parcels with valid barcodes.&#x20;
 * Assigned delivery routes available in the system.
 * Open the application and locate the **Main Action Screen**.
-* Tap **Unplanned Deliveries** to view passes awaiting assignment.
+* Tap **Unplanned Deliveries** to view missions awaiting assignment.
+* **Select a mission**
+  * Scan the QR code to select the mission.
+  * Long-press a mission to access the following actions:
+    * **Go to Pickup** – Opens navigation to the pickup location.
+    * **Mission Details** – Displays detailed mission information.
+    * **Cancel** – Cancels the selected mission.
 
 <img src="../../.gitbook/assets/mobile-unplanned_deliveries_timestamp_0_to_00.png" alt="" width="540">
 
