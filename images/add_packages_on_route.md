@@ -26,8 +26,6 @@ The Add Packages on Route feature allows you to quickly integrate new parcels in
 
 <figure><img src="../.gitbook/assets/image (10).png" alt="" width="540"><figcaption></figcaption></figure>
 
-
-
 #### How To: Add a Package to an Existing Route
 
 1. Scroll down from the main actions and tap **Add packages on route**,.
@@ -43,32 +41,30 @@ The Add Packages on Route feature allows you to quickly integrate new parcels in
 
 <img src="../.gitbook/assets/mobile-add_packages_on_route_timestamp_0_to_27_to_0_to_38.gif" alt="" width="540">
 
-5. Tap the **Barcode scanner** and scan the package.&#x20;
+5. Tap the **Barcode scanner** and scan the package.
 
 <figure><img src="../.gitbook/assets/Add packages on Route 1.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-6. Tap the **Tick mark** to finalize the scanning phase.&#x20;
+6. Tap the **Tick mark** to finalize the scanning phase.
 
 <figure><img src="../.gitbook/assets/Add Packages on Route 2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 6. Review the validation pop-up,.
-7. Toggle **Order my parcels** if needed and tap **Confirm.**&#x20;
+7. Toggle **Order my parcels** if needed and tap **Confirm.**
 
 <figure><img src="../.gitbook/assets/Add Packages on Route 3.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-8. Package has been added to the Route Successfully.&#x20;
+8. Package has been added to the Route Successfully.
 
 <figure><img src="../.gitbook/assets/Add package on Route 4.jpg" alt="" width="563"><figcaption></figcaption></figure>
-
-
 
 **Troubleshooting**
 
 * If the package belongs to another agency, a warning appears,. Tap **OK** to continue.
 
-<figure><img src="../.gitbook/assets/image (13).png" alt="" width="540"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Add packages on Route 1 (2).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 #### Productivity Tips
 
 * 💡 **Automatic Sequencing**: Toggle the **Order my parcels** option to let the system optimize your delivery order,.
-* ⚠️ **Cross-Agency Handling**: Be aware that scanning packages from different agencies triggers a warning that requires manual confirmation.&#x20;
+* ⚠️ **Cross-Agency Handling**: Be aware that scanning packages from different agencies triggers a warning
