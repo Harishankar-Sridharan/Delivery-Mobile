@@ -52,7 +52,22 @@ To manage unplanned deliveries, ensure you have an active dispatcher account and
 
 <img src="../../.gitbook/assets/mobile-unplanned_deliveries_timestamp_2_to_19_to_2_to_29.gif" alt="" width="540">
 
+**Take Charge**
 
+Take charge of a mission to assign it to yourself and begin the delivery process.
+
+1. Select the mission you want to take charge of.
+2. Tap **Take Charge**.
+
+<figure><img src="../../.gitbook/assets/Unscheduled collections 1 (2).jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+3. Tap **Assign Me the Collection** to assign the mission to yourself.
+
+<figure><img src="../../.gitbook/assets/Unscheduled collections 2 (2).jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+4. Loading has been finished successfully.&#x20;
+
+<figure><img src="../../.gitbook/assets/Unscheduled collections 3 (2).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 #### Productivity Tips
 
