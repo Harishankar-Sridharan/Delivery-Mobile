@@ -14,17 +14,13 @@ To manage unplanned deliveries, ensure you have an active dispatcher account and
 
 <img src="../../.gitbook/assets/mobile-unplanned_deliveries_timestamp_0_to_00.png" alt="" width="540">
 
-
-
 #### Feature Overview
 
-* **Unscheduled Collections Space**: Displays all parcels currently awaiting a route assignment in one central list.&#x20;
-* **Scan Icon**: Activates the camera to quickly identify a parcel by scanning its barcode.&#x20;
-* **Schedule**: Opens the date and route selection menu to assign selected parcels to the delivery plan.&#x20;
+* **Unscheduled Collections Space**: Displays all parcels currently awaiting a route assignment in one central list.
+* **Scan Icon**: Activates the camera to quickly identify a parcel by scanning its barcode.
+* **Schedule**: Opens the date and route selection menu to assign selected parcels to the delivery plan.
 
-<figure><img src="../../.gitbook/assets/Unplanned_deliveries.jpg" alt="" width="563"><figcaption></figcaption></figure>
-
-#### How To: Load and Assign Unplanned Deliveries
+#### How To: Load and Assign Unplanned Collections
 
 **Identifying and Loading Parcels**
 
@@ -33,7 +29,7 @@ To manage unplanned deliveries, ensure you have an active dispatcher account and
 
 <figure><img src="../../.gitbook/assets/Unscheduled collections 1 (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-.&#x20;
+.
 
 3. Tap _Go to Pickup_ to open the pickup location in Google Maps for navigation.
 
@@ -48,13 +44,19 @@ To manage unplanned deliveries, ensure you have an active dispatcher account and
 **Assigning Parcels to a Route**
 
 1. Tap **Schedule** to begin the assignment process,.
-2. Select the delivery date and tap **OK.**&#x20;
+2. Select the delivery date and tap **OK.**
 
 <img src="../../.gitbook/assets/mobile-unplanned_deliveries_timestamp_2_to_09_to_2_to_18.gif" alt="" width="540">
 
-3. Select the desired route from the drop-down menu and tap **Confirm.**&#x20;
+3. Select the desired route from the drop-down menu and tap **Confirm.**
 
 <img src="../../.gitbook/assets/mobile-unplanned_deliveries_timestamp_2_to_19_to_2_to_29.gif" alt="" width="540">
+
+#### Start the Mission
+
+* Select a mission — Choose the mission you want to work on.
+* Take charge — Become the owner and manage this mission.
+* Assign me the collection — Add this collection to your assignments.
 
 #### Productivity Tips
 
