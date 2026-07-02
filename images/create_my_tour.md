@@ -48,7 +48,7 @@ The Create My Tour feature allows mobile users to manually build and prioritize 
 
 12. Route has been created successfully.&#x20;
 
-<figure><img src="../.gitbook/assets/msedge_HWkdpPDnTl.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Create my tour 1 (2).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 #### Productivity Tips
 
