@@ -52,13 +52,10 @@ To manage unplanned deliveries, ensure you have an active dispatcher account and
 
 <img src="../../.gitbook/assets/mobile-unplanned_deliveries_timestamp_2_to_19_to_2_to_29.gif" alt="" width="540">
 
-#### Start the Mission
 
-* Select a mission — Choose the mission you want to work on.
-* Take charge — Become the owner and manage this mission.
-* Assign me the collection — Add this collection to your assignments.
 
 #### Productivity Tips
 
 * 💡 **Bulk Processing**: Select multiple parcels at once to assign several deliveries to a route in a single action,.
 * 💡 **Visual Verification**: Check for the small green circle next to a parcel to confirm it has been successfully loaded,.
+
