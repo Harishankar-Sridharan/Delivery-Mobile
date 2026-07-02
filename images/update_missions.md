@@ -9,8 +9,6 @@ The update missions feature allows users to modify mission information by scanni
 * Open the mobile application and locate the **Main actions** menu.
 * Scroll down to find the **Update missions** option.
 
-<img src="../.gitbook/assets/mobile-update_missions_timestamp_0_to_07_to_0_to_12.gif" alt="" width="540">
-
 #### Feature Overview
 
 * **Barcode scanner icon**: Launches the device camera to read parcel barcodes for mission identification.
@@ -33,8 +31,6 @@ The update missions feature allows users to modify mission information by scanni
 5. Tap on **Save** once you enter the required details.
 
 <img src="../.gitbook/assets/mobile-update_missions_timestamp_0_to_37_to_0_to_55.gif" alt="" width="540">
-
-
 
 #### Productivity Tips
 
