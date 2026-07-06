@@ -19,35 +19,46 @@
 
 #### How To: Scan a Parcel for Receipt
 
-1. Select any reception from the list.
-2. Tap the **Barcode Scanner**.
-3. Scan the parcel barcode&#x20;
-4. Select the scanned parcel in the list.
-5. Tap on the **Tick Mark**.
+1. Tap the **Barcode Scanner**.
+2. Scan the parcel barcode
+3. Select the scanned parcel in the list.
+4. Tap on the **Tick Mark**.
 
 <img src="../../.gitbook/assets/mobile-receipt_timestamp_0_to_43.png" alt="" width="540">
-
-
 
 6. Tap **Confirm** on the pop-up stating "Are you sure you want to finish...".
 
 <img src="../../.gitbook/assets/mobile-receipt_timestamp_0_to_58.png" alt="" width="540">
 
+7. Tap Confirm to acknowledge receipt of the package.
+8. Once the package is scanned and confirmed, its status is updated to "**Received"** in the Back Office.
+
+<figure><img src="../../.gitbook/assets/msedge_mDjrrnlMjh.png" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
 #### How To: Update Status Manually
 
-1. Long press the parcel you wish to update.
-2. Toggle the **Received** status.
+1. Use this option when the physical barcode is unreadable or damaged.
+2. Tap the **Barcode Scanner**.
+3. Scan the parcel barcode.
+4. Long press the parcel you wish to update.
+5. Toggle the **Received** status.
 
 <img src="../../.gitbook/assets/mobile-receipt_timestamp_1_to_31.png" alt="" width="540">
 
-3. Toggle the specific **Sub Status** required (e.g., "Drop the hub").
+6. Toggle the specific **Sub Status** required (e.g., "Drop the hub").
 
 <img src="../../.gitbook/assets/mobile-receipt_timestamp_1_to_40.png" alt="" width="540">
 
-4. Tap the **Tick Mark**.
-5. Tap **Confirm** on the confirmation pop-up.
+7. Tap the **Tick Mark**.
+8. Tap **Confirm** on the confirmation pop-up.
 
 <img src="../../.gitbook/assets/mobile-receipt_timestamp_2_to_14.png" alt="" width="540">
+
+9. The scanned package status is updated to **Received** in the Back Office when the **Manual Scan** sub-status is set to **Yes**.
+
+<figure><img src="../../.gitbook/assets/image (16).png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### How To: Record Damaged Parcels
 
@@ -62,10 +73,12 @@
 <img src="../../.gitbook/assets/mobile-receipt_timestamp_2_to_43.png" alt="" width="540">
 
 5. Tap **Confirm** to finish the process.
+6. The scanned package status is updated to **Not Received** in the Back Office.
+
+<figure><img src="../../.gitbook/assets/msedge_iLQHrviUmS.png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### Productivity Tips
 
 * 💡 **Back Office Monitoring**: View all reception updates and machine logs in the back office immediately after confirmation.
 * ⚠️ **Configuration Limits**: Sub-statuses are limited to what has been defined in your back-office configuration.
 * ⚠️ **Mandatory Proof Collection**: Ensure all mandatory proof, such as customer signatures or photos, is captured according to the Back Office sub-status configuration.
-
