@@ -44,6 +44,6 @@ Docking prepares packages before loading them onto delivery routes. This feature
 
 #### Productivity Tips
 
-* 💡 **Back Office Verification**: View the docking status in the **Machine Logs** to confirm completion from the office.
+* 💡 **Back Office Verification**: View the docking status in the **Missions Logs** to confirm completion from the office.
 
 <figure><img src="../.gitbook/assets/msedge_UOzgRPmKDq.png" alt="" width="563"><figcaption></figcaption></figure>
