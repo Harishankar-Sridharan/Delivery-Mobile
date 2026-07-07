@@ -17,7 +17,7 @@ Prerequisites for using the unload feature:
 #### Feature Overview
 
 * **Unload**: Initiates the return flow for parcels that could not be delivered
-* **Green Circle**: Indicates that a parcel has been successfully scanned and recognized by the system.&#x20;
+* **Green Circle**: Indicates that a parcel has been successfully scanned and recognized by the system.
 
 #### How To: Unload Parcels
 
@@ -34,9 +34,9 @@ Prerequisites for using the unload feature:
 
 6. Tap the **Edit Button** next to the package to verify the unloading status in the log.
 
-<figure><img src="../.gitbook/assets/msedge_dKMQ1MX6Jh.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_pktW6eEzZZ.png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### Productivity Tips
 
-* 💡 **Back Office Sync**: Dispatchers can see the unloading status immediately in the back office after the driver confirms.&#x20;
-* ⚠️ **Verification Requirement**: Always look for the green circle after scanning to ensure the parcel is correctly logged for return.&#x20;
+* 💡 **Back Office Sync**: Dispatchers can see the unloading status immediately in the back office after the driver confirms.
+* ⚠️ **Verification Requirement**: Always look for the green circle after scanning to ensure the parcel is correctly logged for return.
