@@ -1,6 +1,6 @@
 # Loading
 
-The Nomadia Delivery mobile loading feature allows delivery users to manage parcel statuses and track loading activities. Users can verify parcels and machines before starting their routes to ensure efficient preparation. This workflow streamlines the transition from the warehouse to the vehicle.
+The Nomadia Delivery mobile loading feature allows delivery users to manage parcel statuses and track loading activities. Users can verify parcels and missions before starting their routes to ensure efficient preparation. This workflow streamlines the transition from the warehouse to the vehicle.
 
 #### Getting Started
 
@@ -16,7 +16,7 @@ The Nomadia Delivery mobile loading feature allows delivery users to manage parc
 
 #### Feature Overview
 
-* **To Load**: Displays all parcels and machines pending loading.
+* **To Load**: Displays all parcels and missions pending loading.
 * **Not Loaded**: Lists parcels that are not yet inside the vehicle.
 * **Loaded**: Shows parcels that are successfully loaded into the vehicle.
 * **Sub-status Toggle**: Switches the view to verify loaded and pending parcels.
@@ -24,6 +24,24 @@ The Nomadia Delivery mobile loading feature allows delivery users to manage parc
 <img src="../../.gitbook/assets/mobile-mobile_loading_timestamp_0_to_33.png" alt="" width="540">
 
 * **Ellipse Menu**: Opens additional operation options in the top right corner.
+*   **Parameters**
+
+    The **Parameters** screen allows you to perform package-related actions and customize how packages are displayed in the app.
+
+    **Reset all packages**
+
+    Use **Reset all packages** to restore all packages to their default state. This option clears the current package status and lets you restart the package handling process.
+
+    **Note:** Resetting packages cannot be undone. Make sure you want to clear the current package status before proceeding.
+
+    **Minimize package display**
+
+    Enable **Minimize package display** to show packages in a compact view with fewer details, making it easier to navigate long package lists.
+
+    * **Enabled:** Displays packages in a compact view with minimal details.
+    * **Disabled:** Displays complete package information.
+
+    **Tip:** Enable this option when working with a large number of packages to improve screen readability.
 
 <img src="../../.gitbook/assets/mobile-mobile_loading_timestamp_1_to_36.png" alt="" width="540">
 
@@ -37,7 +55,7 @@ The Nomadia Delivery mobile loading feature allows delivery users to manage parc
 
 <img src="../../.gitbook/assets/mobile-mobile_loading_timestamp_1_to_06_to_1_to_11.gif" alt="" width="540">
 
-#### How To: Load Parcels Manually
+#### How To: Load Parcels Manually - If the physical barcode is unreadable or damaged
 
 1. Identify the parcel entry in the list if a physical scan is unavailable.
 2. Long press on the parcel entry to update the status manually.
@@ -47,6 +65,10 @@ The Nomadia Delivery mobile loading feature allows delivery users to manage parc
 3. Use the toggle buttons at the bottom of the screen to manually indicate the parcel status. Tap _Load_ (green button) when loading a parcel, or tap _Not load_ (red button) when the parcel is not loaded. This action allows parcels to be processed manually without scanning.
 
 <figure><img src="../../.gitbook/assets/Media (17).jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+4. The package status is updated to _Loaded_ in the Back Office
+
+<figure><img src="../../.gitbook/assets/msedge_zoi63OgERg.png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### How To: Finish the Loading Workflow
 
@@ -61,7 +83,7 @@ The Nomadia Delivery mobile loading feature allows delivery users to manage parc
 
 **Troubleshooting: Unexpected Machines**
 
-If an unexpected parcel or machine is scanned, the application identifies it as an **Unexpected machine**.
+If an unexpected parcel or mission is scanned, the application identifies it as an **Unexpected mission**.
 
 <img src="../../.gitbook/assets/mobile-mobile_loading_timestamp_2_to_11_to_2_to_18.png" alt="" width="540">
 
