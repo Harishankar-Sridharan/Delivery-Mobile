@@ -13,7 +13,7 @@ The Supervision feature provides real-time visibility into your delivery operati
 
 #### Feature Overview
 
-* **Tracking**: Displays the total percentage of completed routes and active machines for the current period.
+* **Tracking**: Displays the total percentage of completed routes and active missions for the current period.
 * **Routes**: Lists individual routes including customer names, deliverer assignments, and pending hours.
 * **Map**: Visualizes customer locations and delivery points on an interactive map.
 * **Filter**: Provides options to refine the dashboard view based on priority, start order, or search terms.
@@ -22,7 +22,7 @@ The Supervision feature provides real-time visibility into your delivery operati
 
 1. Open the **Supervision** page and select the **Tracking** tab.
 2. Check the percentage of routes completed at the top of the screen.
-3. Scroll down to see specific machine collection statuses for each route.
+3. Scroll down to see all mission status for each route.
 
 <figure><img src="../.gitbook/assets/mobile-supervision_timestamp_0_to_31_to_0_to_39.gif" alt="" width="540"><figcaption></figcaption></figure>
 
@@ -36,14 +36,14 @@ The Supervision feature provides real-time visibility into your delivery operati
 
 4. Tap the Maps icon to open the location in Maps.
 
-<figure><img src="../.gitbook/assets/mobile-supervision_timestamp_1_to_09.png" alt="" width="540"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shared image (4).jpg" alt="" width="540"><figcaption></figcaption></figure>
 
 #### How To: Filter and Search the Dashboard
 
 1. Tap the **Filter** icon in the top right corner.
 2. Select **Yes** or **No** under **Priority to Late Routes**.
 3. Choose **Less Advanced** or **More Advanced** in the **Route Start Order** section.
-4. Enter a delivery band or route name in the **Search** box.
+4. Enter a delivery name or route name in the **Search** box.
 5. Tap **Apply** to save your filter selections.
 
 <figure><img src="../.gitbook/assets/mobile-supervision_timestamp_1_to_48.png" alt="" width="540"><figcaption></figcaption></figure>
@@ -51,4 +51,4 @@ The Supervision feature provides real-time visibility into your delivery operati
 #### Productivity Tips
 
 * 💡 **Real-Time Accuracy**: Use the refresh function frequently to ensure you are seeing the latest data from your deliverers.
-* 💡 **Fast Navigation**: Search by delivery band or road name to find specific information without scrolling through long lists.
+* 💡 **Fast Navigation**: Search by delivery name or route name to find specific information without scrolling through long lists.
