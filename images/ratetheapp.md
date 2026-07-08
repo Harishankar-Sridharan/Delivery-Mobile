@@ -38,17 +38,6 @@ The Rate the App feature allows you to share feedback on your experience with No
 
 <img src="../.gitbook/assets/mobile-ratetheapp_timestamp_0_to_50.png" alt="" width="540">
 
-#### How To: View App Reviews
-
-1. Tap **Review More** after submitting your rating.
-
-<img src="../.gitbook/assets/mobile-ratetheapp_timestamp_0_to_50.png" alt="" width="540">
-
-2. Review the displayed ratings from other users.
-
-<img src="../.gitbook/assets/mobile-ratetheapp_timestamp_0_to_55.png" alt="" width="540">
-
 #### Productivity Tips
 
 * 💡 **Instant Update**: Your latest rating is displayed immediately after you tap the post button.
-* 💡 **Feedback Check**: Use the review more option to stay informed about other users' experiences and tips.
