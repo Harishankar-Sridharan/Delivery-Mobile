@@ -25,7 +25,7 @@ To access your assigned work, ensure you meet these requirements:
 * **Progress Bar**: Tracks current stops, completed stops, and remaining stops visually.
 * **Map View**: Provides a visual representation of the route sequence and machine locations.
 * **Three Dots**: Access operation activities like **Refresh My Tour** or **Optimize My Tour**.
-* **Missions List**: Displays cards for each machine containing customer info and delivery status.
+* **Missions List**: Displays cards for each mission containing customer info and delivery status.
 
 <figure><img src="../.gitbook/assets/myroute.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -34,11 +34,13 @@ To access your assigned work, ensure you meet these requirements:
 1. Locate the specific **Mission** card in your list.
 2. Tap the **Phone Icon** to view the customer's phone number and call them.
 
-<figure><img src="../.gitbook/assets/mobile-my_route.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/My Route - 1.png" alt="" width="563"><figcaption></figcaption></figure>
 
 3. Tap the **Navigation** icon to launch Google Maps and receive turn-by-turn directions to the customer's location. This helps drivers quickly navigate to the destination.
 
 <figure><img src="../.gitbook/assets/myroute_googlemaps.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+#### How to Load
 
 #### How To: Perform a Delivery
 
