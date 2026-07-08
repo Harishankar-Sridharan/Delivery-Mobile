@@ -34,6 +34,3 @@ The agencies feature allows you to manage different operational hubs within Noma
 
 <figure><img src="../.gitbook/assets/Agencies.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-#### Productivity Tips
-
-(The provided source material does not contain specific productivity tips or warnings.)
