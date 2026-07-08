@@ -20,7 +20,7 @@ The **parameters** feature allows you to customize your application settings and
 * **Unit of measurement**: Switches distance displays between kilometers and miles.
 * **Time format**: Sets the clock display to 12-hour or 24-hour format.
 * **Date format**: Choose between DDMMYY or MMDDYY formats.
-* **About me**: Provides technical details like synchronization status and connection type.
+* **About me**: Provides route, agency and user details like synchronization status and connection type.
 
 <img src="../../.gitbook/assets/mobile-parameters_timestamp_1_15_to_1_19.png" alt="" width="540">
 
@@ -34,14 +34,6 @@ The **parameters** feature allows you to customize your application settings and
 4. Tap **Confirm** to clear the catch.
 
 <img src="../../.gitbook/assets/mobile-parameters_timestamp_0_19_to_0_29.gif" alt="" width="540">
-
-#### How To: Change Unit Measurements
-
-1. Navigate to the **My settings** section.
-2. Tap **Unit of measurement**.
-3. Select either **KM** or **ML**
-
-<figure><img src="../../.gitbook/assets/image (15).png" alt="" width="540"><figcaption></figcaption></figure>
 
 #### Productivity Tips
 
