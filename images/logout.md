@@ -1,6 +1,6 @@
 # Log out
 
-The **Logout** feature allows you to securely terminate your current application session. Dispatchers and planners use this to exit the mobile interface and protect account data. Completing this process ensures your specific login is closed properly.
+The **Logout** feature allows you to securely terminate your current application session. Warehouse operators, dock agents & deliverers use this to exit the mobile interface and protect account data. Completing this process ensures your specific login is closed properly.
 
 #### Getting Started
 
