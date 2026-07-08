@@ -31,7 +31,7 @@ Create pickup or delivery missions directly on mobile devices without using the 
 
 <figure><img src=".gitbook/assets/image (2).png" alt="" width="540"><figcaption></figcaption></figure>
 
-5. Tap the **QR code scanner** at the bottom scan a barcode or enter it manually.
+5. Tap the **Barcode scanner** at the bottom scan a barcode or enter it manually.
 6. Set the mission location by selecting **Search for an address around me** or **My current location**.
 7. Tap New address to enter the address
 
@@ -68,5 +68,5 @@ This completes the Create Mission process.
 #### Productivity Tips
 
 * 💡 **Manual Entry**: You can manually type a barcode if the camera cannot read a label.
-* 💡 **Address Shortcuts**: Select a **Previous address** to quickly set locations for returning customers.
+* 💡 **Address Shortcuts**: Select **Previous Address** to reuse the last selected address, making it faster to create multiple missions for the same location.
 * 💡 **Instant Synchronization**: Created missions are immediately available to the back office for management.
