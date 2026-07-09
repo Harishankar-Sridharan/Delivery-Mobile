@@ -42,6 +42,10 @@ To access your assigned work, ensure you meet these requirements:
 
 #### How to Load
 
+Refer to the following link to access the Loading page.
+
+
+
 #### How To: Perform a Delivery
 
 1. Open the **Mission** card once you reach the destination.
