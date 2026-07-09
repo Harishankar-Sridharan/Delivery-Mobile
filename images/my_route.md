@@ -42,20 +42,26 @@ To access your assigned work, ensure you meet these requirements:
 
 #### How to Load
 
-Refer to the following link to access the Loading page.
+Refer to the following link to access the Loading page. [https://app.gitbook.com/o/oWGpSeZsFYIlc5oQ3d3d/s/Nos1xNJbOzIyAIJFYYCX/main\_actions/deposit/mobile\_loading](../main_actions/deposit/mobile_loading.md)
 
+#### How to start a route
 
+1. Complete the loading process.
+2. Once the loading is complete, the **Start My Route** option is displayed.
+3. Tap **Start My Route** to begin your route.
+
+<figure><img src="../.gitbook/assets/shared image (5).jpg" alt="" width="540"><figcaption></figcaption></figure>
 
 #### How To: Perform a Delivery
 
 1. Open the **Mission** card once you reach the destination.
 2. Tap the **Play Button** to begin the process.
 
-<figure><img src="../.gitbook/assets/myroute.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shared image (7).jpg" alt="" width="540"><figcaption></figcaption></figure>
 
 3. To complete a delivery, tap **Delivery** and scan the parcel's QR code or barcode. Once the scan is successful, you can continue with the delivery confirmation process.
 
-<figure><img src="../.gitbook/assets/myroute_QRcodescan.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shared image (8).jpg" alt="" width="540"><figcaption></figcaption></figure>
 
 4. Long-press the delivery to select **Validation Without Scan** if manual entry is needed.
 5. Tap **Confirm** on the validation pop-up.
@@ -67,9 +73,6 @@ Refer to the following link to access the Loading page.
 <img src="../.gitbook/assets/mobile-my_route_timestamp_4_to_02_to_4_to_18.gif" alt="" width="540">
 
 7. Tap the **Tick Mark** to proceed to the signature capture screen. Ask the recipient to sign on the device to acknowledge successful receipt of the parcel.
-
-<figure><img src="../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
-
 8. Tap the **Next Arrow** to proceed to the final confirmation step and provide the delivery person's signature. This signature confirms that the delivery process has been completed.
 
 <figure><img src="../.gitbook/assets/myrout_deliveryman_sign.png" alt=""><figcaption></figcaption></figure>
@@ -88,7 +91,7 @@ Once delivery is confirmed:
 * Delivery photos are available in the back office.
 * Delivery logs are updated automatically.
 
-<figure><img src="../.gitbook/assets/myroute_backoffice.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_YlwWUXkWnO.png" alt="" width="533"><figcaption></figcaption></figure>
 
 #### Productivity Tips
 
