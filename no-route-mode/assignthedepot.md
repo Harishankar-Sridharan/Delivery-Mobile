@@ -44,4 +44,5 @@ This feature allows you to assign a specific depot or building to a user profile
 
 #### Productivity Tips
 
-* 💡 **Automatic Syncing**: Building selections made in the mobile app update the back office location field automatically.&#x20;
+* 💡 **Automatic Syncing**: Building selections made in the mobile app update the back-office location field automatically.&#x20;
+
