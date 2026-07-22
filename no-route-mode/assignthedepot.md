@@ -19,13 +19,13 @@ This feature allows you to assign a specific depot or building to a user profile
 
 #### How To: Assign a Depot
 
-1. Log in to the mobile application,.
+1. Log in to the mobile application.&#x20;
 2. Locate the **no deport** option on the **Dashboard.**&#x20;
 3. Tap the **Edit** option located directly under **no deport.**&#x20;
 
 <img src="../.gitbook/assets/assignthedepot-assignthedepot_timestamp_0_to_15_to_0_to_20.gif" alt="" width="360">
 
-4. Review the list of buildings that have been assigned to your account,.
+4. Review the list of buildings that have been assigned to your account.&#x20;
 5. Select a building name, such as **Georges V.**&#x20;
 
 <img src="../.gitbook/assets/assignthedepot-assignthedepot_timestamp_0_to_20_to_0_to_33.gif" alt="" width="360">
@@ -44,4 +44,4 @@ This feature allows you to assign a specific depot or building to a user profile
 
 #### Productivity Tips
 
-* 💡 **Automatic Syncing**: Building selections made in the mobile app update the back office location field automatically,.
+* 💡 **Automatic Syncing**: Building selections made in the mobile app update the back office location field automatically.&#x20;
