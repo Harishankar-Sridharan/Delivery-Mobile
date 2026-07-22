@@ -33,3 +33,4 @@
 * [Create a Mission](createamission-1.md)
 * [Fullfilment - My Route](images/my_route.md)
 * [No Route Mode](no-route-mode.md)
+* [Assign the Depot](images/assignthedepot.md)
