@@ -73,6 +73,6 @@ Prerequisites:
 
 #### Productivity Tips
 
-* 💡 **Dispatcher Privileges**: Logging in as a dispatcher allows you to change multiple statuses like collected and delivered,.
-* 💡 **Workflow Automation**: Completing a status change automatically triggers the next step in the delivery workflow,.
-* ⚠️ **Login Required**: You must be logged in as a dispatch user to ensure status changes sync with the back office,.
+* 💡 **Dispatcher Privileges**: Logging in as a dispatcher allows you to change multiple statuses like collected and delivered.&#x20;
+* 💡 **Workflow Automation**: Completing a status change automatically triggers the next step in the delivery workflow.&#x20;
+* ⚠️ **Login Required**: You must be logged in as a dispatch user to ensure status changes sync with the back office.&#x20;
