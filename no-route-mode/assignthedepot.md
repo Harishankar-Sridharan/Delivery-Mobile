@@ -1,4 +1,4 @@
-# Assign the Depot
+# Assign the Depot / Building
 
 This feature allows you to assign a specific depot or building to a user profile through the mobile application, It ensures that building assignments stay consistent by synchronizing data between the app and the back office, Using this tool helps dispatchers maintain accurate location records for all field personnel.
 
@@ -17,7 +17,7 @@ This feature allows you to assign a specific depot or building to a user profile
 * **Manage Users**: The back office section where you can view and confirm user location assignments.&#x20;
 * **Location**: The specific field in the back office that displays the synchronized building name.&#x20;
 
-#### How To: Assign a Depot
+#### How To: Assign a Depot / Building
 
 1. Log in to the mobile application.&#x20;
 2. Locate the **no deport** option on the **Dashboard.**&#x20;
