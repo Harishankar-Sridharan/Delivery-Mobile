@@ -1,63 +1,49 @@
-# shuttlemanagement.
-# shuttlemanagement
-Manage shuttle operations and parcel scanning effectively within the mobile application. This feature ensures parcels are processed at the correct locations, preventing logistics errors,. Use this guide to handle scanning and resolve location-based errors.
+# Shuttle Management - Negative Scenario
 
-### Getting Started
-*   Mobile application installed and updated.
-*   Valid user login credentials,.
-*   Active shuttle assignments for the current site.
+Manage shuttle operations and parcel scanning effectively within the mobile application. This feature ensures parcels are processed at the correct locations, preventing logistics errors, use this guide to handle scanning and resolve location-based errors.
 
-1. Log into the mobile application,.
+#### Getting Started
 
-![Frame at 0:10](../images/shuttlemanagement-shuttlemanagement_timestamp_0_to_10.png "Login Screen – The initial entry point into the mobile application.")
+* Mobile application installed and updated.
+* Valid user login credentials.&#x20;
+* Active shuttle assignments for the current site.
+* Log into the mobile application.&#x20;
 
-2. Tap on **Shuttle** from the main menu,.
+<img src="../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_0_to_10.png" alt="" width="360">
 
-![Frame at 0:18](../images/shuttlemanagement-shuttlemanagement_timestamp_0_to_18.png "Shuttle Menu – Accessing the shuttle management features.")
+#### Feature Overview
 
-### Feature Overview
-*   **Shuttle Selection**: Choose the specific shuttle assigned to your current task,.
+* **Shuttle Selection**: Choose the specific shuttle assigned to your current task,.
+* **Apply Button**: Confirms the selection of the highlighted shuttle.
+* **Start Button**: Activates the scanning interface for the selected shuttle,.
 
-![Frame at 0:23](../images/shuttlemanagement-shuttlemanagement_timestamp_0_to_23.png "Shuttle Selection – Choosing the correct shuttle for the task.")
+#### How To: Manage Shuttle Scanning and Errors
 
-*   **Apply Button**: Confirms the selection of the highlighted shuttle.
-
-![Frame at 0:28](../images/shuttlemanagement-shuttlemanagement_timestamp_0_to_28.png "Apply Button – Submitting the shuttle selection.")
-
-*   **Start Button**: Activates the scanning interface for the selected shuttle,.
-
-![Frame at 0:36](../images/shuttlemanagement-shuttlemanagement_timestamp_0_to_36.png "Start Button – Beginning the parcel scanning sequence.")
-
-### How To: Manage Shuttle Scanning and Errors
 1. Tap on **Shuttle**.
 
-![Flow 0:10 to 0:18](../images/shuttlemanagement-shuttlemanagement_timestamp_0_to_10_to_0_to_18.gif "Navigation – Moving from login to the shuttle selection screen.")
+<img src="../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_0_to_10_to_0_to_18.gif" alt="" width="360">
 
 2. Select the required shuttle from the list.
-
-![Frame at 0:23](../images/shuttlemanagement-shuttlemanagement_timestamp_0_to_23.png "Selection – Picking a shuttle from the list.")
-
 3. Tap **Apply**.
 
-![Frame at 0:28](../images/shuttlemanagement-shuttlemanagement_timestamp_0_to_28.png "Confirmation – Confirming the selection via the Apply button.")
+<img src="../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_0_to_23.png" alt="" width="360">
 
-4. Tap the specific shuttle record again to open it.
 
-![Frame at 0:32](../images/shuttlemanagement-shuttlemanagement_timestamp_0_to_32.png "Shuttle Entry – Opening the details of the selected shuttle.")
 
-5. Tap **Start** to begin the process,.
+4. Tap **Start** to begin the process.&#x20;
 
-![Frame at 0:36](../images/shuttlemanagement-shuttlemanagement_timestamp_0_to_36.png "Initiate – Clicking Start to activate the scanner.")
+<img src="../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_0_to_32.png" alt="" width="360">
 
-6. Scan the **parcel** barcode,.
+5. Scan the **parcel** barcode.&#x20;
 
-![Flow 0:36 to 0:43](../images/shuttlemanagement-shuttlemanagement_timestamp_0_to_36_to_0_to_43.gif "Scanning – The process of scanning a parcel barcode.")
+<img src="../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_0_to_36_to_0_to_43.gif" alt="" width="360">
 
-#### Troubleshooting
-If the scanned parcel is not assigned to your current site, a pop-up appears,. The message states the package is not expected at the current site,.
+**Troubleshooting**
 
-![Frame at 0:56](../images/shuttlemanagement-shuttlemanagement_timestamp_0_to_56.png "Error Pop-up – Notification that a parcel is scanned at the wrong location.")
+If the scanned parcel is not assigned to your current site, a pop-up appears, The message states the package is not expected at the current site.&#x20;
 
-### Productivity Tips
-- ⚠️ **Incorrect Site Scanning**: Scanning a parcel at a site where it is not expected triggers a warning pop-up,.
+<img src="../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_0_to_56.png" alt="" width="360">
 
+#### Productivity Tips
+
+* ⚠️ **Incorrect Site Scanning**: Scanning a parcel at a site where it is not expected triggers a warning pop-up,.

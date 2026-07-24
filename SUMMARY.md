@@ -35,4 +35,4 @@
 * [No Route Mode](no-route-mode/README.md)
   * [Assign the Depot / Building](no-route-mode/assignthedepot.md)
   * [Status change](images/images/statuschange.md)
-  * [Shuttle Management](images/shuttlemanagement..md)
+  * [Shuttle Management - Negative Scenario](images/shuttlemanagement..md)
