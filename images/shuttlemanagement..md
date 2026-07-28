@@ -7,7 +7,6 @@ Manage shuttle operations and parcel scanning effectively within the mobile appl
 * Mobile application installed and updated.
 * Valid user login credentials.&#x20;
 * Active shuttle assignments for the current site.
-* Log into the mobile application.&#x20;
 
 <img src="../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_0_to_10.png" alt="" width="360">
 
