@@ -1,6 +1,6 @@
 # Status change
 
-Update the status of parcels and machines to maintain real-time tracking for the back office. This feature allows you to move items through collection and delivery workflows efficiently. You will achieve full visibility and process continuity by accurately recording each stage of the logistics cycle,.
+Update the status of parcels and machines to maintain real-time tracking for the back office. This feature allows you to move items through collection and delivery workflows efficiently. You will achieve full visibility and process continuity by accurately recording each stage of the logistics cycle.&#x20;
 
 #### Getting Started
 
@@ -16,6 +16,7 @@ Prerequisites:
 * **Delivered**: Toggle this switch to mark an item as successfully delivered.
 * **Reserve name**: Enter the name of the recipient or the person handling the item.
 * **Shuttle:** Select the specific shuttle or timing for the delivery reservation.
+* **Pattern:** A predefined grouping or category applied during the collection step.
 
 #### How To: Update Status to Collected
 
@@ -31,7 +32,7 @@ Prerequisites:
 
 <img src="../../.gitbook/assets/statuschange-statuschange_timestamp_1_to_08.png" alt="" width="360">
 
-4. Take a snap of the parcel.
+4. Take a photo of the parcel.
 
 <img src="../../.gitbook/assets/statuschange-statuschange_timestamp_1_to_10_to_1_to_13.gif" alt="" width="360">
 
@@ -51,13 +52,13 @@ Prerequisites:
 
 #### How To: Update Status to Delivered
 
-1. Scan the same machine and tap the **Tick mark**,.
+1. Scan the same machine and tap the **Tick mark.**&#x20;
 2. Toggle the **Delivered** status.
 
 <img src="../../.gitbook/assets/statuschange-statuschange_timestamp_3_to_00.png" alt="" width="360">
 
-3. Toggle the **Confirm** button.
-4. Take a snap of the item.
+3. Tap the **Confirm** button.
+4. Take a photo of the item.
 5. Tap the **Tick mark.**
 6. Enter the **Reserve name** and tap the **Right arrow.**
 7. Select the **Shuttle** and tap the **Right arrow.**
@@ -67,7 +68,8 @@ Prerequisites:
 
 9. Tap the **Tick mark.**
 10. Tap **Confirm** on the validation pop-up.
-11. The updated status is reflected in the Back Office.
+
+**Result**: The updated status is reflected in the back office.
 
 <figure><img src="../../.gitbook/assets/msedge_H4qTZJ3gKs.png" alt=""><figcaption></figcaption></figure>
 
