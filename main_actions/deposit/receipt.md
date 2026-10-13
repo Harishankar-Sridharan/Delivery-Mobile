@@ -35,8 +35,6 @@
 
 <figure><img src="../../.gitbook/assets/msedge_mDjrrnlMjh.png" alt="" width="563"><figcaption></figcaption></figure>
 
-
-
 #### How To: Update Status Manually
 
 1. Use this option when the physical barcode is unreadable or damaged.
@@ -76,6 +74,24 @@
 6. The scanned package status is updated to **Not Received** in the Back Office.
 
 <figure><img src="../../.gitbook/assets/msedge_iLQHrviUmS.png" alt="" width="563"><figcaption></figcaption></figure>
+
+#### How To: Scan and Receive Containers in the Mobile Application
+
+1. Open the mobile application on your field device.
+2. Click the **+** icon at the bottom
+3. Enter the **Reception name** and **Reception ID** when prompted and click **validate**
+
+<figure><img src="../../.gitbook/assets/image (17).png" alt="" width="540"><figcaption></figcaption></figure>
+
+4. Scan the **Parent container form**.
+
+![](../../.gitbook/assets/receptionmanagement-receptionmanagement_timestamp_2_to_11.png)
+
+5. Tap the Tick mark at the bottom.&#x20;
+6. You will get a pop up stating "Are you sure you want to finish receiving scanned messages"
+7. Click **confirm**
+
+<figure><img src="../../.gitbook/assets/shared image (2) (1).jpg" alt="" width="540"><figcaption></figcaption></figure>
 
 #### Productivity Tips
 
