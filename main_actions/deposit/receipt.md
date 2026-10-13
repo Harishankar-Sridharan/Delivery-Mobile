@@ -78,8 +78,9 @@
 #### How To: Scan and Receive Containers in the Mobile Application
 
 1. Open the mobile application on your field device.
-2. Click the **+** icon at the bottom
-3. Enter the **Reception name** and **Reception ID** when prompted and click **validate**
+2. Open the Reception module.&#x20;
+3. Click the **+** icon at the bottom
+4. Enter the **Reception name** and **Reception ID** when prompted and click **validate**
 
 <figure><img src="../../.gitbook/assets/image (17).png" alt="" width="540"><figcaption></figcaption></figure>
 
